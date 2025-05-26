@@ -93,12 +93,12 @@ def reframe_question(question, context, mode="local"):
     
     prompt = f"""The document search didn't find a complete answer to this question: "{question}"
 
-        Based on this partial context: {context}...
+        Based on this context: {context}...
 
         Provide:
-        1. Where in building standards this answer might be found (specific sections/documents)
+        1.Extractly how the question should be reframed to get better results
         2. Your best knowledge-based answer to help the user
-        3. Specific next steps they should take
+        3. If the context
 
         Be practical and actionable."""
 
