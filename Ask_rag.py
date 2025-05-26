@@ -98,7 +98,7 @@ def reframe_question(question, context, mode="local"):
         Provide:
         1.Extractly how the question should be reframed to get better results
         2. Your best knowledge-based answer to help the user
-        3. If the context
+        3. If the context provides where the answer might be found (specific sections/documents) reframe the question so we can use it for vector search in RAG.
 
         Be practical and actionable."""
 
@@ -108,6 +108,37 @@ def reframe_question(question, context, mode="local"):
         temperature=0.1
     )
     return response.choices[0].message.content
+
+def extract_reframed_question(reframe_response):
+    """Extract the reframed question from LLM response"""
+    lines = reframe_response.split('\n')
+    for line in lines:
+        if 'reframed' in line.lower() or 'better' in line.lower():
+            # Extract question after colon or quotation marks
+            if ':' in line:
+                return line.split(':', 1)[1].strip(' "')
+            elif '"' in line:
+                return line.split('"')[1]
+    return lines[0]  # fallback to first line
+
+def perform_search(query, index_lib, doc_context, args):
+    question_vector = get_embedding(query)
+    best_vectors = get_best_vectors(question_vector, index_lib, args.num_results)
+    
+    context_parts = [doc_context]
+    for v in best_vectors:
+        source = v.get('source_file', 'unknown').replace('.json', '')
+        context_parts.append(f"[Source: {source}]\n{v['content']}")
+    context = "\n\n".join(context_parts)
+    
+    if args.show_context:
+        print(f"\nRETRIEVED CONTEXT:")
+        for i, v in enumerate(best_vectors, 1):
+            print(f"[{i}] Source: {v.get('source_file', 'unknown')}")
+            print(f"Content: {v['content']}\n")
+    
+    answer = rag_answer(query, context, args.mode)
+    return answer, best_vectors
 
 def ask_rag():
     parser = argparse.ArgumentParser(description='RAG Question Answering System')
@@ -120,39 +151,31 @@ def ask_rag():
     args = parser.parse_args()
     question = ' '.join(args.question)  # Join multiple words back into single question
     
-    print("Processing question...")
+    # Get available documents
+    index_lib = load_embeddings(args.embeddings_json)
+    available_docs = list(set(v.get('source_file', 'unknown').replace('.json', '') for v in index_lib))
+    doc_context = f"Available knowledge base: {', '.join(available_docs)}"
     
-    # Enhance question first
+    # First attempt
     enhanced_question = enhance_question(question, args.mode)
     print(f"Enhanced question: {enhanced_question}")
     
-    # Use enhanced question for embedding
-    question_vector = get_embedding(enhanced_question)  # Remove the duplicate line
-    index_lib = load_embeddings(args.embeddings_json)
-    best_vectors = get_best_vectors(question_vector, index_lib, args.num_results)
+    answer, best_vectors = perform_search(enhanced_question, index_lib, doc_context, args)
     
-    #context 
-    context_parts = []
-    for v in best_vectors:
-        source = v.get('source_file', 'unknown').replace('.json', '')
-        context_parts.append(f"[Source: {source}]\n{v['content']}")
-
-    context = "\n\n".join(context_parts)
-    
-    if args.show_context:
-        print(f"\nRETRIEVED CONTEXT:")
-        for i, v in enumerate(best_vectors, 1):
-            print(f"\n[{i}] Source: {v.get('source_file', 'unknown')}")
-            print(f"Content: {v['content']}\n")
-
-    # Generate answer
-    answer = rag_answer(enhanced_question, context, args.mode)
-    
-
-    # Check if answer is poor and provide fallback
+    # If poor answer, try reframing once
     if detect_poor_answer(answer):
-        answer = fallback_answer(enhanced_question, context, args.mode)  # Store, don't return
-
+        print("Initial search unsatisfactory, reframing...")
+        reframe_response = reframe_question(question, "\n".join([v['content'] for v in best_vectors]), args.mode)
+        reframed_question = extract_reframed_question(reframe_response)
+        print(f"Reframing search with: {reframed_question}")
+        
+        answer, best_vectors = perform_search(reframed_question, index_lib, doc_context, args)
+        
+        # If still poor after reframing, use fallback
+        if detect_poor_answer(answer):
+            context = "\n\n".join([f"[Source: {v.get('source_file', 'unknown').replace('.json', '')}]\n{v['content']}" for v in best_vectors])
+            answer = fallback_answer(question, context, args.mode)
+    
     print(f"QUESTION: {question}")
     print(f"ANSWER: {answer}")
     print(f"SOURCES: {', '.join(set(v.get('source_file', 'unknown') for v in best_vectors))}")
