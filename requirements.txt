@@ -217,3 +217,9 @@ wrapt==1.16.0
 xattr==1.1.0
 yarl==1.9.4
 zipp==3.18.1
+llama-index
+llama-parse
+openai
+umap-learn 
+scikit-learn
+matplotlib
