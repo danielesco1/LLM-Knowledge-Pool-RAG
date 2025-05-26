@@ -1,0 +1,795 @@
+# 2018 Commercial Buildings Energy Consumption Survey
+
+# Building Characteristics Highlights
+
+eia Independent Statistics Analysis
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+# 2018 Commercial Buildings Energy Consumption Survey
+
+# Building Characteristics Highlights
+
+Released September 2021
+
+Revised September 2022
+
+U.S. Energy Information Administration
+
+Office of Energy Statistics
+
+U.S. Department of Energy
+
+Washington, DC 20585
+
+This publication is available at:
+
+https://www.eia.gov/cbecs
+
+This report was prepared by the U.S. Energy Information Administration (EIA), the statistical and analytical agency within the U.S. Department of Energy. By law, EIA's data and analyses are independent of approval by any other officer or employee of the United States Government. The views in this report therefore should not be construed as representing those of the U.S. Department of Energy or other federal agencies.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+# What is the Commercial Building Energy Consumption Survey (CBECS)?
+
+CBECS is:
+
+- The only independent, statistically representative source of national-level data on the characteristics and energy use of commercial buildings
+- A snapshot of the commercial buildings stock and energy use for the reference year—in this case, 2018
+- A sample survey where every commercial building has a known chance of being selected
+
+The U.S. Energy Information Administration (EIA) collects data for commercial buildings in two parts:
+
+- We collect building characteristics through an in-person or web survey. Respondents, such as building owners and managers, completed the survey at 6,436 buildings for the 2018 CBECS, representing 5.9 million buildings in the United States.
+- We collect energy usage data from suppliers of electricity, natural gas, fuel oil, and district heat.
+
+We have conducted the CBECS periodically since 1979, as required by Congress.
+
+The 2018 CBECS is the 11th iteration.
+
+CBECS
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+# Key takeaways from EIA’s 2018 CBECS building characteristics results
+
+- Growth in building size continued to outpace increases in building stock; from 2003 to 2018, the number of buildings increased by 22% and total floorspace by 35%.
+- Newer buildings were larger, on average, than older commercial buildings.
+- Warehouse and storage, office, and service buildings were the most common building types.
+- Building types with the largest percentage increase in the number of buildings since 2012 were service, public assembly, lodging, and warehouse and storage.
+- Shares of commercial buildings, commercial floorspace, and the U.S. population were highest in the South Census Region.
+- Natural gas was the most common space heating energy source, and electricity was the most commonly used energy source overall.
+- Out of all types of lighting equipment, only LED lighting use increased since 2012.
+- An estimated 2% of commercial buildings had electric vehicle charging stations.
+
+Note: These data are for reference year 2018 and do not reflect the impact of the COVID-19 pandemic. All data referenced in this document is available in the CBECS building characteristics tables.
+
+These data supersede the 2018 preliminary data previously published. Unless otherwise noted, all differences are statistically significant at the 10% significance level or lower. A lower significance level indicates a lower likelihood of incorrectly concluding a difference exists between two values when no difference actually exists.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+# Table of contents
+
+| Topic                                 | Slide number |
+| ------------------------------------- | ------------ |
+| Buildings and floorspace              | 6            |
+| Principal building activity           | 11           |
+| Year of construction                  | 17           |
+| Regional estimates                    | 21           |
+| Energy sources and end uses           | 25           |
+| Energy-related building features      | 33           |
+| References and additional information | 38           |
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Buildings and Floorspace
+
+The CBECS includes buildings larger than 1,000 square feet for which more than half the floorspace is used for activities that are neither residential, manufacturing, industrial, nor agricultural.
+# Growth in building size outpaced increases in building stock
+
+# Number of commercial buildings and floorspace, 1979–2018
+
+| number of buildings (millions) | billion square feet |   |   |
+| ------------------------------ | ------------------- | - | - |
+| number of buildings (millions) | billion square feet |   |   |
+| 10                             | 100                 |   |   |
+| 9                              | 90                  |   |   |
+| 8                              | 80                  |   |   |
+| 7                              | 70                  |   |   |
+| 6                              | 60                  |   |   |
+| 5                              | 50                  |   |   |
+| 4                              | 40                  |   |   |
+| 3                              | 30                  |   |   |
+| 2                              | 20                  |   |   |
+| 1                              | 10                  |   |   |
+| 0                              | 0                   |   |   |
+
+• CBECS estimates that there were 5.9 million buildings and 96 billion square feet of total commercial floorspace in 2018.
+
+• The CBECS estimates that over 15 years (from 2003 to 2018), the total number of buildings increased by 22% and total floorspace increased by 35%.
+
+• Total square footage increased by 11% from 2012 to 2018. The increase in number of buildings from 2012 to 2018 was not statistically significant.
+
+• From the first CBECS in 1979 to the 2018 CBECS, the number of buildings has increased from 3.8 million to 5.9 million (56%), and the amount of commercial floorspace has increased from 51 billion square feet to 96 billion square feet (89%).
+
+1979   1983  1986 1989  1992  1995   1999    2003            2012        2018
+
+year of survey
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration                                                             #CBECS | www.eia.gov/cbecs
+# Typical building size category illustrations
+
+| square feet (sf)   | 100,001-200,000 sf | 5,001-25,000 sf   | >500,000 sf |
+| ------------------ | ------------------ | ----------------- | ----------- |
+| >500,000 sf        | superstore         | fire station      | skyscraper  |
+| inpatient hospital | 200,001-500,000 sf | <5,000 sf         |             |
+| high school        | fast food          | 25,001-100,000 sf | restaurant  |
+|                    |                    | sports center     |             |
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+8
+# Total commercial buildings and floorspace by square footage category, 2018
+
+Most buildings were small, but large buildings dominated total floorspace.
+
+| Square Footage Category | Percentage of Total Commercial Buildings | Percentage of Total Commercial Floorspace |
+| ----------------------- | ---------------------------------------- | ----------------------------------------- |
+| 1,001 to 5,000 sf       | Almost half                              | 8%                                        |
+| 5,001 to 10,000 sf      |                                          |                                           |
+| 10,001 to 25,000 sf     | Nearly three-fourths (71%)               |                                           |
+| 25,001 to 50,000 sf     |                                          | 34%                                       |
+| 50,001 to 100,000 sf    |                                          |                                           |
+| 100,001 to 200,000 sf   |                                          |                                           |
+| 200,001 to 500,000 sf   |                                          |                                           |
+| Over 500,000 sf         |                                          |                                           |
+
+• Buildings larger than 100,000 sf accounted for less than 3% of commercial buildings but 34% of commercial floorspace.
+
+• The median building size was 5,400 sf; the average building size was 16,300 sf.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Building size increased with more average floorspace per worker
+
+# Average square feet per worker, all buildings and office buildings, 1995–2018
+
+|       | all buildings         | office buildings |
+| ----- | --------------------- | ---------------- |
+| 1,200 |                       |                  |
+| 1,000 | religious worship     | 2,656 sf         |
+|       | lodging               | 2,767 sf         |
+| 800   |                       |                  |
+| 600   | warehouse and storage | 2,222 sf         |
+|       | 2,214 sf              |                  |
+| 400   | public assembly       | 2,082 sf         |
+|       | 2,075 sf              |                  |
+| 200   |                       |                  |
+| 0     |                       |                  |
+
+Total main shift workers in commercial buildings increased by 12%, from 77 million workers in 1995 to 86 million workers in 2018.
+
+CBECS estimates that the average square feet per worker in commercial buildings in 2018 was 1,072 sf, a 40% increase from 1995.
+
+Although office buildings had the most workers, the square feet per worker was much lower for offices than the average for all building types. On average, office workers had 507 sf of floorspace. In 1995, the average floorspace for workers in offices was 387 sf.
+
+Building types that serve the public likely have many more occupants than workers; religious worship, lodging, and public assembly all had an average of more than 2,000 square feet per worker.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Principal Building Activity
+
+The principal building activity is the activity or function that occupies the most floorspace in a building. EIA designed the following principal building activity categories to group buildings that have similar patterns of energy consumption:
+
+- Education
+- Mercantile
+- Service
+- Food sales
+- Office
+- Warehouse and storage
+- Food service
+- Public assembly
+- Other
+- Health care
+- Public order and safety
+- Vacant
+- Lodging
+- Religious worship
+
+Visit Building Type Definitions on the CBECS web page to learn more about these principal building activities.
+# Warehouse and storage, office, and service buildings were the most common building types
+
+# Percentage of commercial buildings and floorspace by principal building activity, 2018
+
+| health care           | all other buildings, 15% | lodging        | all other buildings, 12% | food service            |
+| --------------------- | ------------------------ | -------------- | ------------------------ | ----------------------- |
+| warehouse and         | health care              | warehouse and  | food sales               | public order and safety |
+| storage, 17%          | food sales               | storage, 18%   | vacant                   | lodging, 7%             |
+| other                 | food service, 5%         | other          | education, 7%            | 96.4 billion            |
+| office, 16%           | number of buildings      | office, 17%    | total floorspace         | in square feet          |
+| religious worship, 7% |                          |                | religious worship, 6%    |                         |
+| service, 15%          | public assembly, 8%      | mercantile, 9% |                          | mercantile, 11%         |
+| public assembly, 7%   |                          |                |                          |                         |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+- Warehouse and storage, office, and service buildings together accounted for 48% of all commercial buildings and 42% of total commercial building floorspace.
+- Although service buildings were the third most common building type, these buildings accounted for only 6% of total floorspace.
+- Education buildings accounted for 7% of all buildings, but they accounted for 14% of total floorspace.
+- Although food service buildings accounted for 5% of all commercial buildings, they accounted for only 1% of total floorspace. Lodging buildings accounted for 4% of commercial buildings, but they accounted for 7% of total floorspace.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+12
+# Many principal building activities increased in the number of buildings from 2012 to 2018
+
+# Number of commercial buildings by principal building activity, 2018
+
+thousands
+
+| warehouse and storage\* | The largest percentage increases in the number of buildings were for service (40%), |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+| office                  | public assembly (39%), lodging (31%), and                                           |
+| service\*\*             | warehouse and storage (26%).                                                        |
+| mercantile              | The largest percentage decreases in the number of buildings were for vacant (30%)   |
+| public assembly\*\*     | and food service (25%).                                                             |
+| religious worship       |                                                                                     |
+| education               |                                                                                     |
+| food service\*\*        |                                                                                     |
+| lodging\*\*             |                                                                                     |
+| vacant\*                |                                                                                     |
+| food sales              |                                                                                     |
+| health care             |                                                                                     |
+| other                   |                                                                                     |
+| public order and safety |                                                                                     |
+
+0               200               400               600               800              1,000             1,200
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+* Change is statistically significant at the 10% significance level.
+
+** Change is statistically significant at the 5% significance level.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+13
+# Average floorspace by principal building activity, 2018
+
+Square feet per building
+
+| lodging                 | On average, among the principal building activities, lodging (33,700 sf), education (31,100 sf), and health care (29,300 sf) were the largest buildings.                                                                                            |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| education               |                                                                                                                                                                                                                                                     |
+| health care             | The size of inpatient health care buildings (hospitals) contributes greatly to the health care category’s average floorspace. Hospitals averaged 264,800 sf per building, compared with outpatient health care buildings, which averaged 13,700 sf. |
+| other                   |                                                                                                                                                                                                                                                     |
+| mercantile              |                                                                                                                                                                                                                                                     |
+| public order and safety |                                                                                                                                                                                                                                                     |
+| warehouse and storage   |                                                                                                                                                                                                                                                     |
+| office                  | On average, food service buildings were the smallest (4,800 sf), followed by food sales, service, and vacant.                                                                                                                                       |
+| all buildings           |                                                                                                                                                                                                                                                     |
+| public assembly         |                                                                                                                                                                                                                                                     |
+| religious worship       |                                                                                                                                                                                                                                                     |
+| vacant                  |                                                                                                                                                                                                                                                     |
+| service                 |                                                                                                                                                                                                                                                     |
+| food sales              |                                                                                                                                                                                                                                                     |
+| food service            |                                                                                                                                                                                                                                                     |
+
+0      5,000   10,000  15,000   20,000  25,000  30,000  35,000
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Office and education buildings had the most workers
+
+# Number of main shift workers and buildings by principal building activity, 2018
+
+percentage
+
+|                         | 0%                                                                                                                                         | 10% | 20% | 30% | 40% |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- |
+| office                  | • Half of all main shift workers worked in office and education buildings in 2018.                                                         |     |     |     |     |
+| education               |                                                                                                                                            |     |     |     |     |
+| mercantile              |                                                                                                                                            |     |     |     |     |
+| warehouse and storage   |                                                                                                                                            |     |     |     |     |
+| health care             | • Although health care buildings accounted for 2% of commercial buildings, health care workers accounted for 8% of all main shift workers. |     |     |     |     |
+| service                 |                                                                                                                                            |     |     |     |     |
+| public assembly         |                                                                                                                                            |     |     |     |     |
+| food service            |                                                                                                                                            |     |     |     |     |
+| lodging                 |                                                                                                                                            |     |     |     |     |
+| religious worship       |                                                                                                                                            |     |     |     |     |
+| other                   |                                                                                                                                            |     |     |     |     |
+| public order and safety |                                                                                                                                            |     |     |     |     |
+| food sales              |                                                                                                                                            |     |     |     |     |
+| vacant                  |                                                                                                                                            |     |     |     |     |
+
+percentage of main shift workers
+
+percentage of buildings
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Lodging buildings operated the most hours per week
+
+# Average weekly operating hours in commercial buildings by principal building activity, 2018
+
+|                         | 0                 | 42                                                                                                                                                                                        | 84         | 126 | 168                                                                                                                                            | Percentage of buildings |
+| ----------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+|                         |                   |                                                                                                                                                                                           | lodging    |     | • On average, lodging (165 hours), public order and safety (131 hours), and food sales (110 hours) buildings operated the most hours per week. |                         |
+| public order and safety |                   | • The proportion of lodging buildings that were open continuously contributes greatly to the average operating hours per week. Almost all lodging buildings were open continuously (98%). |            |     |                                                                                                                                                |                         |
+|                         |                   |                                                                                                                                                                                           | food sales |     | • Religious worship, and vacant buildings were open less than 50 hours per week on average.                                                    |                         |
+|                         | other             | 12%                                                                                                                                                                                       |            |     |                                                                                                                                                |                         |
+|                         | food service      |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+| warehouse and storage   |                   |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         | mercantile        |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         |                   | all buildings                                                                                                                                                                             |            |     |                                                                                                                                                |                         |
+|                         | health care       |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         | office            |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         | service           |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         | public assembly   |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         | education         |                                                                                                                                                                                           |            |     |                                                                                                                                                |                         |
+|                         | religious worship | 74%                                                                                                                                                                                       |            |     |                                                                                                                                                |                         |
+|                         |                   |                                                                                                                                                                                           | vacant     |     |                                                                                                                                                |                         |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Year of Construction
+
+The year of construction is the year in which the major part or the largest portion of a building was constructed.
+# More than half of U.S. commercial buildings were built between 1960 and 1999
+
+# Share of number of buildings and floorspace by year constructed, 2018
+
+percentage of total for all buildings
+
+| 60% | Buildings built between 1960 and 1999 accounted for more than 50% of both total number of buildings and of floorspace. |                                                                                               |                                           |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 50% | 1990–1999                                                                                                              | One-quarter of buildings (25%) were built after 2000, accounting for 29% of total floorspace. |                                           |
+| 40% | 1980–1989                                                                                                              | Buildings built before 1960 represented 21% of buildings but only 17% of total floorspace.    |                                           |
+| 30% | 2010–2018                                                                                                              |                                                                                               | The median year of construction was 1981. |
+| 20% | 1970–1979                                                                                                              |                                                                                               |                                           |
+| 10% | 1946–1959                                                                                                              |                                                                                               |                                           |
+| 0%  | 1920–1945                                                                                                              | 1960–1969                                                                                     | 2000–2009                                 |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Newer buildings were larger, on average, than older commercial buildings
+
+# Average building size by year of construction, 2018
+
+square feet
+
+|          | 2000 to 2018 | 1960 to 1999       | before 1960        |                    |              |              |              |              |              |
+| -------- | ------------ | ------------------ | ------------------ | ------------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Average: |              | 19,000 square feet | 16,300 square feet | 13,200 square feet |              |              |              |              |              |
+| Size:    | 20,000       |                    |                    |                    |              |              |              |              |              |
+|          | 15,000       |                    |                    |                    |              |              |              |              |              |
+|          | 10,000       |                    |                    |                    |              |              |              |              |              |
+|          |              | 5,000              |                    |                    |              |              |              |              |              |
+|          | 0            |                    |                    |                    |              |              |              |              |              |
+|          | before 1920  | 1920 to 1945       | 1946 to 1959       | 1960 to 1969       | 1970 to 1979 | 1980 to 1989 | 1990 to 1999 | 2000 to 2009 | 2010 to 2018 |
+
+Buildings constructed before 1960 are smaller than buildings constructed since 2000—more than 5,000 square feet smaller, on average.
+
+Buildings constructed since 2000 averaged 19,000 square feet, or 2,700 square feet larger than the national average.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# More than a third of lodging and health care buildings were constructed since 2000
+
+# Proportion of commercial buildings by year of construction and principal building activity, 2018
+
+| percentage              | 0% | 20% | 40% | 60% | 80% | 100% |
+| ----------------------- | -- | --- | --- | --- | --- | ---- |
+| lodging                 |    |     |     |     |     |      |
+| health care             |    |     |     |     |     |      |
+| public order and safety |    |     |     |     |     |      |
+| mercantile              |    |     |     |     |     |      |
+| food service            |    |     |     |     |     |      |
+| warehouse and storage   |    |     |     |     |     |      |
+| food sales              |    |     |     |     |     |      |
+| service                 |    |     |     |     |     |      |
+| all buildings           |    |     |     |     |     |      |
+| public assembly         |    |     |     |     |     |      |
+| office                  |    |     |     |     |     |      |
+| other                   |    |     |     |     |     |      |
+| education               |    |     |     |     |     |      |
+| religious worship       |    |     |     |     |     |      |
+| vacant                  |    |     |     |     |     |      |
+
+• More than 30% of health care, lodging, and public order and safety buildings were constructed since 2000.
+
+• More than 30% of food service, religious worship, and vacant buildings were constructed before 1960.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Regional Estimates
+
+In addition to national estimates, CBECS estimates building characteristics by census region and division.
+# U.S. census regions and divisions
+
+|   | WEST    | MIDWEST  | NORTHEAST         |           |        |             |
+| - | ------- | -------- | ----------------- | --------- | ------ | ----------- |
+|   | Pacific | Mountain | Northeast Central | Northeast | Middle | New England |
+|   | WA      | MT       | ND                | NH        | MB     |             |
+|   | OR      |          | MNE               | MA        |        |             |
+|   | WY      | SD       | IA                | WI        | IN     | OH          |
+|   | NV      |          | NE                |           |        |             |
+|   | CA      | UT       | CO                | KS        | MO     | DE          |
+|   |         |          | VA                | MD        | DC     |             |
+|   | AZ      | NM       | OK                | TN        | NC     |             |
+|   |         | AR       | MS                | SC        | GA     |             |
+|   |         | TX       | AK                |           |        |             |
+
+West
+
+East
+
+South
+
+South Central
+
+South Central Atlantic
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+22
+# Commercial buildings, floorspace, and population were highest in the South
+
+# Commercial buildings, floorspace, and U.S. population by region, 2018
+
+|           | Buildings | Floorspace | U.S. Population |
+| --------- | --------- | ---------- | --------------- |
+| Northeast | 35%       |            |                 |
+| Midwest   | 29%       | 27%        | 21%             |
+| South     | 38%       | 36%        | 36%             |
+| West      | 21%       | 20%        | 24%             |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey; U.S. Census Bureau, Population Estimates Program, based on one-year estimates from the American Community Survey.
+
+Note: Population estimates are as of July 1, 2018.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Commercial buildings were largest in the Middle Atlantic
+
+# Average square feet per building by census division, 2018
+
+|                    | 0                                    | 5,000 | 10,000 | 15,000 | 20,000 | 25,000 |
+| ------------------ | ------------------------------------ | ----- | ------ | ------ | ------ | ------ |
+| New England        |                                      |       |        |        |        |        |
+| Middle Atlantic    |                                      |       |        |        |        |        |
+| East North Central |                                      |       |        |        |        |        |
+| West North Central |                                      |       |        |        |        |        |
+| South Atlantic     |                                      |       |        |        |        |        |
+| East South Central |                                      |       |        |        |        |        |
+| South              | average: 16,300 square feet          |       |        |        |        |        |
+| West South Central |                                      |       |        |        |        |        |
+| Mountain           |                                      |       |        |        |        |        |
+| West               | average: 15,500 square feet          |       |        |        |        |        |
+|                    | national average: 16,300 square feet |       |        |        |        |        |
+
+• Commercial buildings in the Middle Atlantic Census Division averaged 23,600 square feet (sf), 45% more than the average for all U.S. buildings (16,300 sf) in 2018.
+
+• Commercial buildings were among the smallest on average (13,600 sf) in New England and brought the average building size for the entire Northeast region down to 20,100 square feet, which was 23% more than the national average floorspace.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Energy Sources and End Uses
+
+An energy source is a type of energy or fuel consumed in a building. In the CBECS, we obtained information about the use of electricity, natural gas, fuel oil, district heat, district chilled water, propane, wood, coal, and solar in commercial buildings from the building respondent.
+
+An energy end use is a use for which energy is consumed in a building. We collected information on seven specific end uses in the CBECS—space heating, cooling, water heating, cooking, manufacturing, electricity generation, and lighting.
+# Total commercial buildings and floorspace by energy source, 2018
+
+Although electricity was most common, other sources are also used in commercial buildings.
+
+|                       | percentage of total commercial buildings | percentage of total commercial floorspace |
+| --------------------- | ---------------------------------------- | ----------------------------------------- |
+| Electricity           | 95%                                      | 98%                                       |
+| Natural Gas           | 50%                                      | 70%                                       |
+| Propane               |                                          |                                           |
+| Fuel Oil              |                                          |                                           |
+| Wood, Coal, and Other |                                          |                                           |
+| Solar                 |                                          |                                           |
+| District Heat         |                                          |                                           |
+| Chilled Water         |                                          |                                           |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Percentage of commercial buildings and floorspace by end use, 2018
+
+| End Use                | Number of Buildings | Total Floorspace |
+| ---------------------- | ------------------- | ---------------- |
+| Lighting               | 93%                 | 98%              |
+| Space Heating          | 83%                 | 92%              |
+| Cooling                | 78%                 | 91%              |
+| Water Heating          | 78%                 | 91%              |
+| Cooking                | 29%                 | 45%              |
+| Electricity Generation | 12%                 | 31%              |
+| Manufacturing Heating  | 5%                  | 7%               |
+
+• Lighting, space heating, cooling, and water heating were each used in more than three-fourths of commercial buildings, accounting for at least 90% of total floorspace.
+
+• Electricity generation was more common in larger buildings. Buildings with electricity generation averaged 41,700 square feet, more than twice the size of the average building.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Commercial building space heating and primary heating by energy source, 2018
+
+| Energy Source          | Percentage of Buildings |
+| ---------------------- | ----------------------- |
+| Natural Gas            | 44%                     |
+| Electricity            | 43%                     |
+| Propane                |                         |
+| Fuel Oil               |                         |
+| District Heat          |                         |
+| District Chilled Water |                         |
+| Other Sources          |                         |
+
+# Commercial building cooling by energy source, 2018
+
+| Energy Source | Percentage of Buildings |
+| ------------- | ----------------------- |
+| Electricity   | 78%                     |
+| Natural Gas   |                         |
+| Other Sources |                         |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: For any space heating, more than one heating energy source may apply. Other sources include wood, coal, solar, and all other energy sources.
+
+• For space heating, natural gas (44%) or electricity (43%) were used in the majority of commercial buildings.
+
+• More than three-fourths (78%) of commercial buildings were cooled using electricity.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+# Space heating energy sources varied by region
+
+# Commercial building heating by region and energy source, 2018
+
+| Percentage of buildings | Electricity | Natural Gas | Fuel Oil | District Heat | Propane |
+| ----------------------- | ----------- | ----------- | -------- | ------------- | ------- |
+| 60%                     |             |             |          |               |         |
+| 50%                     |             |             |          |               |         |
+| 40%                     |             |             |          |               |         |
+| 30%                     |             |             |          |               |         |
+| 20%                     |             |             |          |               |         |
+| 10%                     |             |             |          |               |         |
+| 0%                      |             |             |          |               |         |
+
+• Electricity use for space heating was highest in the South (55%), but natural gas use for space heating was lowest in the South (33%).
+
+• The Northeast had the largest percentage of buildings using fuel oil for space heating (23%).
+
+• Although 9% of buildings in the Northeast used propane for space heating, in particular, 22% of buildings in the New England Census Division were heated by propane.
+
+• District heat use was 4% or less in each region.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: More than one energy source may apply.
+
+Q = Data withheld either because the Relative Standard Error (RSE) was greater than 50 percent or fewer than 20 buildings were sampled.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Total commercial buildings and floorspace by heating equipment, 2018
+
+Packaged heating units and furnaces were the most commonly used heating equipment.
+
+|                          | 0%                                                                                                          | 10% | 20% | 30% | 40% | 50% |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
+| Packaged heating units   | 37% of buildings, or 50% of total floorspace.                                                               |     |     |     |     |     |
+| Furnaces                 | 27% of buildings, but these buildings only accounted for 18% of total floorspace.                           |     |     |     |     |     |
+| Individual space heaters | 17,000 sf                                                                                                   |     |     |     |     |     |
+| Boilers                  | Although boilers were used in only 12% of buildings, these buildings accounted for 30% of total floorspace. |     |     |     |     |     |
+| Heat pumps               | 22,400 sf                                                                                                   |     |     |     |     |     |
+| Duct reheat              | 55,200 sf                                                                                                   |     |     |     |     |     |
+| District heat            | 79,300 sf                                                                                                   |     |     |     |     |     |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: More than one type of heating equipment may apply.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+# Packaged air-conditioning units cool more than half of commercial floorspace
+
+# Total commercial buildings and floorspace by cooling equipment, 2018
+
+| Cooling Equipment                         | Average Building Size | Percentage of Total Commercial Buildings | Percentage of Total Commercial Floorspace |
+| ----------------------------------------- | --------------------- | ---------------------------------------- | ----------------------------------------- |
+| Packaged air-conditioning units           | 21,900 sf             | 43%                                      | 58%                                       |
+| Residential-type central air conditioners | 14,000 sf             | 22%                                      | 19%                                       |
+| Individual air conditioners               | 18,500 sf             |                                          |                                           |
+| Heat pumps                                | 22,500 sf             |                                          |                                           |
+| Central chillers                          | 88,800 sf             | 3%                                       | 19%                                       |
+| Swamp coolers                             | 24,500 sf             |                                          |                                           |
+| District chilled water                    | 77,500 sf             |                                          |                                           |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: More than one type of cooling equipment may apply.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs 31
+# Out of all types of lighting equipment, only LED lighting use increased since 2012
+
+# Lighting equipment used in commercial buildings by bulb type, 2018
+
+|                                | Percentage of buildings |
+| ------------------------------ | ----------------------- |
+| Incandescent                   | 19%                     |
+| Standard fluorescent           | 68%                     |
+| Compact fluorescent            | 41%                     |
+| High-intensity discharge (HID) | 4%                      |
+| Halogen                        | 9%                      |
+| LED                            | 44%                     |
+
+Standard fluorescent lighting was used in 68% of buildings, falling from 84% in 2012.
+
+The percentage of commercial buildings that used LED lighting increased from 9% in 2012 to 44% in 2018.
+
+Aside from LED, all other bulb types decreased in usage between 2012 and 2018.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: More than one bulb type may apply. All changes from 2012 to 2018 were statistically significant at the 5% significance level.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+# Energy-Related Building Features
+
+CBECS collects data on items such as ventilation systems, temperature controls for HVAC, window properties, lighting features, and technologies such as electricity generation and electric vehicle charging.
+# Total commercial buildings and floorspace by HVAC features, 2018
+
+More than half of commercial buildings performed regular HVAC maintenance.
+
+| Regular HVAC maintenance                             | 60% |
+| ---------------------------------------------------- | --- |
+| Programmable thermostat                              | 26% |
+| Building automation system (BAS) for heating/cooling |     |
+| Economizer cycle                                     |     |
+| Variable air volume (VAV) system                     |     |
+| Demand controlled ventilation (DCV)                  |     |
+| Internet-connected (smart) thermostat                | 5%  |
+| Dedicated outside air system (DOAS)                  |     |
+
+Regular HVAC maintenance was used in 60% of commercial buildings, or 81% of floorspace.
+
+Although programmable thermostat use was the second-most common HVAC feature (26% of buildings), it accounted for only 22% of floorspace.
+
+We collected data about the presence of internet-connected (smart) thermostats for the first time in the 2018 CBECS. We estimate that 5% of buildings used smart thermostats.
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: More than one HVAC feature may apply.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs
+The most common window and lighting features were multipaned windows and occupancy sensors.
+
+# Total commercial buildings and floorspace by window and interior lighting features, 2018
+
+| percentage                                    | window features | 0% | 20%                | 40%                                                                                                            | 60% | 80% |
+| --------------------------------------------- | --------------- | -- | ------------------ | -------------------------------------------------------------------------------------------------------------- | --- | --- |
+|                                               |                 |    | Multipaned windows | were used in 60% of buildings, which accounted for 75% of commercial floorspace.                               |     |     |
+| Tinted window glass                           |                 |    |                    |                                                                                                                |     |     |
+| External overhangs or awnings                 |                 |    |                    |                                                                                                                |     |     |
+| Reflective window glass                       |                 |    |                    |                                                                                                                |     |     |
+| Lighting features                             |                 |    |                    |                                                                                                                |     |     |
+|                                               |                 |    | Occupancy sensors  | the most commonly used lighting feature, were used in 17% of buildings, which accounted for 46% of floorspace. |     |     |
+| Light scheduling                              |                 |    |                    |                                                                                                                |     |     |
+| Skylights or atriums                          |                 |    |                    |                                                                                                                |     |     |
+| Multilevel lighting or dimming                |                 |    |                    |                                                                                                                |     |     |
+| Building automation system (BAS) for lighting |                 |    |                    |                                                                                                                |     |     |
+| Daylight harvesting                           |                 |    |                    |                                                                                                                |     |     |
+| Demand responsive lighting                    |                 |    |                    |                                                                                                                |     |     |
+| Plug-load control                             |                 |    |                    |                                                                                                                |     |     |
+| Percentage of total commercial buildings      |                 |    |                    |                                                                                                                |     |     |
+| Percentage of total commercial floorspace     |                 |    |                    |                                                                                                                |     |     |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: More than one window or lighting feature may apply. See the CBECS Terminology for definitions of terms used.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs 35
+# Half of public order and safety buildings used electricity generation technologies
+
+# Electricity generation in commercial buildings by principal building activity, 2018
+
+percentage of buildings
+
+• Electricity generation technologies include solar panels, reciprocating engine generators, and other technologies. These technologies may generate electricity all the time, during times of peak demand, or only for backup emergency use.
+
+• Most of the electricity generation in public order and safety buildings was from reciprocating engine generators.
+
+• Although 22% of health care buildings overall had electricity generation, 100% of inpatient health care buildings had electricity generation capabilities.
+
+• The activities most likely to have solar panels were public assembly (3% of buildings, or 8% of floorspace) and education (3% of buildings, or 6% of floorspace).
+
+| public order and safety                                | other | lodging | office | health care | education | public assembly | service | all buildings | food sales | mercantile | warehouse and storage | religious worship |
+| ------------------------------------------------------ | ----- | ------- | ------ | ----------- | --------- | --------------- | ------- | ------------- | ---------- | ---------- | --------------------- | ----------------- |
+| !Electricity generation chart |       |         |        |             |           |                 |         |               |            |            |                       |                   |
+
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50%
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+Note: Data was not sufficient to produce estimates for food service and vacant buildings.
+
+U.S. Energy Information Administration #CBECS | www.eia.gov/cbecs 36
+# New question provides insight on the prevalence of electric vehicle (EV) charging stations
+
+# Percentage of commercial buildings with EV charging stations by square footage category, 2018
+
+| 10,001 to 25,000 | 25,001 to 50,000 | 50,001 to 100,000 | 100,001 to 200,000 | 200,001 to 500,000 | Over 500,000 |
+| ---------------- | ---------------- | ----------------- | ------------------ | ------------------ | ------------ |
+| 0%               | 10%              | 20%               | 30%                | 40%                |              |
+
+# Percentage of commercial buildings with EV charging stations by select principal building activity, 2018
+
+| 0%      | 2%      | 4%                    | 6%          | 8%     |
+| ------- | ------- | --------------------- | ----------- | ------ |
+| lodging | service | warehouse and storage | health care | office |
+
+Source: U.S. Energy Information Administration, Commercial Buildings Energy Consumption Survey
+
+The CBECS estimates that 2% of commercial buildings had EV charging stations.
+
+Lodging and service buildings were building types most likely to have EV charging, and the larger the building, the more likely it was to have EV charging. More than one-third (36%) of buildings over 500,000 sf reported having EV charging stations.
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+37
+# References and Additional Information
+# Additional CBECS information
+
+- 2018 building characteristics tables
+- Guide to the tables
+- CBECS terminology
+- CBECS building type definitions
+- Frequently asked questions (FAQs)
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+39
+For more information
+
+U.S. Energy Information Administration homepage | www.eia.gov
+
+Commercial Buildings Energy Consumption Survey | www.eia.gov/cbecs
+
+Today in Energy | www.eia.gov/todayinenergy
+
+U.S. Energy Information Administration
+
+#CBECS | www.eia.gov/cbecs
+
+40

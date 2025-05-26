@@ -1,0 +1,1627 @@
+# Environmental design
+
+# Guide A:
+
+# CIBSE Guide A
+
+Environmental Design
+
+CIBSE
+
+WIFI: Password: MOL15XMOL15X
+
+Follow @CIBSE
+# Guide A: Environmental Design
+
+Launch: 22 July 2015
+
+# 18:00 – Session 1
+
+- Derrick Braham, Chair - Welcome
+- Chapter 0 - Quality in Environmental Design
+- Chapter 1 Environmental Criteria for Design
+- Chapter 2 External Design Data
+
+# 18:45 – Session 2
+
+- Chapter 3 Thermal properties of Building Structures
+- Chapter 4 Ventilation and Infiltration
+- Chapter 5 Thermal Response and Plant Sizing
+
+# 19:25 – Session 3
+
+- Chapter 6 Internal Heat Gains
+- Chapter 7 Moisture transfer and Condensation
+- Chapter 8 Health Issues
+
+# 20:05 - Concluding Address
+
+# 20:10 – Drinks reception
+
+WIFI: Password: Follow @CIBSE
+# Derrick Braham
+
+# Guide A Steering Group Chair
+
+# Welcome to the Launch
+
+www.cibse.org
+
+CIBSE
+# Guide A: Environmental Design
+
+This is the 8th edition of CIBSE Guide A: Environmental Design. It is the premier UK technical reference source for designers and installers of heating, ventilating and air conditioning services. It enables engineers to design comfortable, environmentally sustainable, energy efficient buildings that are a pleasure to live and work and spend leisure time in. It comprehensively updates its immediate predecessor and contains many significant changes in both format and content.
+
+- Published March 2015 – Most popular CIBSE document
+- Downloaded 6,677 times (free to members)
+- Hard copies sold 58.
+
+www.cibse.org
+# Guide A: Environmental Design
+
+It presents the professional expertise of UK’s foremost designers and researchers in the HEVAC field.
+
+Many represent CIBSE on International, European and National standards committees.
+
+All are volunteers and most have served on the earlier Guides, CIBSE is especially grateful to their employers who have generously given the time off for this work.
+
+www.cibse.org
+# Guide A: Environmental Design
+
+Each Guide A is part of a continuing publication programme and each successive edition relies on material provided for previous editions.
+
+All this earlier material has been comprehensively reviewed, revised and brought up to-date and many chapters have had to be increased in content. Indeed one new chapter had to be created to reflect the changes in quality standards / performance / reliability now expected, since the previous edition.
+
+www.cibse.org
+# Guide A Steering Committee
+
+- Brian Anderson – BRE Scotland
+- David Arnold – Troup Bywaters + Anders
+- Michael Holmes – Arup
+- Michael Humphreys – Oxford Brookes
+- Geoff Levermore – University of Manchester
+- Martin Liddament – VEETEC Ltd
+- Fergus Nicol – Oxford Brookes
+- Marialena Nikolopoulou – University of Kent
+- Foroutan Parand – AECOM
+- Chris Sanders – Glasgow Caledonia University
+- David Williams – WSP/Parsons Bickerhoff
+- Runming Yao – University of Reading
+- Sanaz Agha – CIBSE (secretary)
+
+www.cibse.org
+# Foroutan Parand
+
+# AECOM
+
+# Chapter 0 - Environmental Design
+
+# www.cibse.org
+# CIBSE Guide A: Environmental design
+
+Environmental design is the premier reference source for designers of low energy sustainable buildings. It is perceived as a guide to good current practice and CIBSE members are encouraged to follow the guidance in discharging their design duties.
+
+www.cibse.org
+# Chapter 0 - Environmental Design
+
+# Purpose of Chapter 0:
+
+1. Introduction to the guide.
+- emphasise on sustainability
+2. Emphasise on the need for quality of design
+- Is the product (building) fit for its purpose?
+- • Safety, health & comfort
+- • Low impact on environment
+
+www.cibse.org
+# Achieving quality
+
+- Holistic approach to design
+- Early engagement in the design process
+- Environmental design process
+- Quality Plan
+- Quality Procedures
+
+A0’s objective: quality sustainable design
+
+www.cibse.org
+# Holistic approach to design
+
+- Understanding the brief
+- Understanding the constraints
+- Communication with other design team members
+- Integrated design
+
+| Initial cost   | Fire Rated      | Security    | Regulations | Climate change |
+| -------------- | --------------- | ----------- | ----------- | -------------- |
+| Work life cost | House vibration | Environment | Water waste |                |
+
+# Functional requirements
+
+- Input (client needs)
+- Building design process and productive output
+
+Output: Healthy, safe, comfortable, sustainable environment for building
+
+| Aesthetics | Envelope facade | HVAC/Lighting | Other Systems |
+| ---------- | --------------- | ------------- | ------------- |
+
+Figure 0.1 of the guide
+
+www.cibse.org
+# Early engagement & options test
+
+- Highlights importance of low energy design options
+- Design is a sequential but iterative process
+- When information is not available, assumptions must be made with the risk associated to them.
+
+Figure 0.2 of the guide
+
+Crlerla measufes masure Renewabie; check concep deslan
+
+www.cibse.org
+# Design flow chart and how to use the guide
+
+Define internal design conditions for quality, comfort and indoor environmental (chapter)
+
+Determine the heating, cooling, ventilation and lighting strategies (CIBSE Guide Lighting)
+
+A generic design flow chart for building services design:
+
+Define external design conditions (consider the risk of climate change) (chapter)
+
+Determine the building's energy demand and CO2 emissions (chapter)
+
+Also a guide to different design internal comfort assessment and cooling plant sizing (chapter)
+
+Evaluate options that will reduce energy demand and emissions (XOBSE Guide)
+
+Determine and define the envelope to achieve the minimum performance required for regulation purposes (If relevant) check compliance with regulatory and/or planning requirements and voluntary targets (e.g. EPC ratings for energy efficiency, energy demand and CO2 emissions. May require revised fabric and fenestration specifications changing design)
+
+Define the amount of fresh ventilation rates required for each space (chapter 4)
+
+You may need to adapt the flow chart to your practice and processes.
+
+Determine if indoor air quality can be achieved using natural ventilation (chapter)
+
+Determine whether thermal comfort can be achieved using natural ventilation (chapter)
+
+Determine whether comfort can be achieved using mechanical ventilation without the mechanical cooling (chapter)
+
+Identify any health issues and mitigations with respect to the systems proposed (chapter)
+
+Determine the risk of interstitial and surface condensation and mould growth (chapter)
+
+Identify and document the list of key design parameters and/or assumptions that changes their value will invalidate the design calculations (chapters)
+
+Quality Assurance
+
+Generic design mechanism indication (chapter and publication references) The information can be found at www.cibse.org
+# Design is not just compliance with Part L
+
+- Part L has focused minds of clients and designers on energy aspects of the design.
+- Health and comfort in some designs may have suffered as a side effect.
+- The guide warns that design is not just Part L.
+- Part L uses a single usage scenario.
+- Designers must consider all possible scenarios.
+
+QA plan should help avoid the potential problem.
+
+| Gain (kW) |      | Temperature (°C) |      |
+| --------- | ---- | ---------------- | ---- |
+| 0         | 0.00 | 350              | 0.05 |
+| 5         | 0.10 | 400              | 0.15 |
+| 10        | 0.20 | 450              | 0.25 |
+| 15        | 0.25 | 500              | 0.30 |
+| 20        | 0.35 | 550              | 0.40 |
+| 25        | 0.40 | 600              | 0.45 |
+| 30        | 0.50 | 650              | 0.55 |
+| 35        | 0.60 | 700              | 0.60 |
+
+Date: Wed 01/Aug
+
+Dry resultant temperature: BedroomGF18 (block16 -windows30pc.aps)
+
+Room CO2 concentration: BedroomGF18 (block16 -windows30pc.aps)
+
+Internal gain: BedroomGF18 (block16 -windows30pc.aps)
+
+Solar gain: BedroomGF18 (block16 -windows30pc.aps)
+
+MacroFlo external vent: BedroomGF18 (block16 -windows30pc.aps)
+
+Dry-bulb temperature: (block16 -windows30pc.aps)
+
+CO2 concentration (ppm)
+
+| 260 | 240 | 220 | 200 | 180 | 160 | 140 | 120 | 100 | 80 | 60 | 40 | 20 | 0 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | -- | -- | -- | -- | - |
+
+Volume flow (l/s)
+# Quality plan
+
+# Figure 0.5 – Quality flow chart
+
+- Quality Policy
+
+For more details and how to set up QA refers to CIBSE AM 11
+
+A complete rewrite of AM11 will be published soon
+
+www.cibse.org
+# Fergus Nicol
+
+# Oxford Brooks University
+
+# Chapter 1 - Environmental
+
+# Criteria for Design
+
+# Environmental design
+
+# CIBSE Guide A
+
+# CIBSE
+
+# www.cibse.org
+# Purpose of Chapter 1
+
+This chapter is intended to delineate the environments that building occupants will find comfortable.
+
+The interaction between people and buildings takes place in a number of ways, and many aspects of the environment are important:
+
+- the thermal environment (both inside the building and outside)
+- the lighting
+- the ventilation
+- any noise or vibration.
+
+The chapter brings together information in all these aspects and tries to give the best and most up-to-date information on which building services engineers can base their designs.
+
+www.cibse.org
+# Thermal environment and comfort
+
+Largely rewritten in the main with sections on
+
+- Comfort
+- Thermal environment, defining variables and looking at the 6 basic variables
+- Models of thermal comfort – adaptive and PMV. How they are derived, how they differ and what they have in common
+- Environmental criteria for indoor spaces.
+
+www.cibse.org
+# Thermal environment and comfort
+
+# Overheating
+
+Reflecting the criteria for overheating introduced in TM52. Additional factors affecting comfort including personal factors such as age, gender, state of health as well as environmental factors such as asymmetry, floor temperatures, draughts and turbulence and the influence of other dimensions such as lighting on thermal comfort.
+
+Each section reviews the available evidence and its reliability.
+
+www.cibse.org
+# Outdoor thermal comfort
+
+An entirely new section which addresses the importance of the outdoor environment and how it can be optimised.
+
+# Requirements for outdoor air
+
+Looks at the need for fresh air and how it can be affected by the rate of supply and the need to control pollutants. Indoor Air Quality is addressed in chapter 8.
+
+www.cibse.org
+# Noise and Vibration
+
+Two sections have been thoroughly rewritten:
+
+- Noise deals with the measurement and effect of noise viewing sound both as a means of communication and as a source of discomfort. The section gives plentiful references to guidelines and standards.
+- Vibration is dealt with from the point of view of the danger it poses to buildings and their occupants, dealing with sources as well as consequences.
+
+www.cibse.org
+# Visual environment
+
+# Lighting for Safety and visual performance
+
+The criteria for daylighting and the role of energy efficiency in lighting. This section has been shortened and readers are referred to the publications of the SLL.
+
+# References
+
+There is a copious list of references which can be used for further reading.
+
+www.cibse.org
+# Table 15 Recommended comfort criteria for specific applications
+
+| Building/Room type                            | Customary winter operative temperatures |                |           | Customary summer operative temperatures |                |                  | Suggested air supply rate (L/s per person unless stated otherwise) | Filtration grade | Maintained illuminance (lux) | Noise criterion NR | dB(A) |   |   |   |   |   |
+| --------------------------------------------- | --------------------------------------- | -------------- | --------- | --------------------------------------- | -------------- | ---------------- | ------------------------------------------------------------------ | ---------------- | ---------------------------- | ------------------ | ----- | - | - | - | - | - |
+| Temp (°C)                                     | Activity met                            | Clothing (clo) | Temp (°C) | Activity met                            | Clothing (clo) |                  |                                                                    |                  |                              |                    |       |   |   |   |   |   |
+| Airport terminals:                            | 12-19                                   | 1.8            | 1.2       | 21-25                                   | 1.3            | 13               | 100                                                                | R6-F7            | 200                          | 75                 |       |   |   |   |   |   |
+| baggage reclaim                               | 18-20                                   | 14             | 1.2       | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 500                          | 40                 |       |   |   |   |   |   |
+| check-in areas                                | 19-24                                   | 1.8            | 1.2       | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 200                          |                    |       |   |   |   |   |   |
+| concourse (no seats)                          | 19-24                                   | 1.8            | 1.2       | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 200                          |                    |       |   |   |   |   |   |
+| customs area                                  | 18-20                                   | 1.4            | 1.2       | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 500                          | 40                 |       |   |   |   |   |   |
+| departure lounge                              | 19-21                                   | 1.3            |           |                                         | 1.2            | 22-25            | 1.2                                                                | 100              | F6-F7                        | 200                | 40    |   |   |   |   |   |
+| Art galleries - See Museums and art galleries |                                         |                |           |                                         |                |                  |                                                                    |                  |                              |                    |       |   |   |   |   |   |
+| Banks, building societies; post offices:      | 14                                      | 1.0            |           | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 300                          | 35-40              | 40-45 |   |   |   |   |   |
+| counters                                      | 19-21                                   | 1.4            | 1.0       | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 300                          | 35-40              | 40-45 |   |   |   |   |   |
+| public areas                                  | 19-21                                   | 1.4            | 1.0       | 21-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 300                          | 35-40              | 40-45 |   |   |   |   |   |
+| Bars/lounges                                  | 20-22                                   | 1.3            | 1.0       | 22-25                                   | 1.3            | 13               | 100                                                                | F6-F7            | 100-200                      | 30-40              | 35-45 |   |   |   |   |   |
+| Bus/coach stations see Railway/coach stations |                                         |                |           |                                         |                |                  |                                                                    |                  |                              |                    |       |   |   |   |   |   |
+| Churches                                      | 19-21                                   | 1.3            | 1.2       | 22-25                                   | 1.3            | 13               | 100                                                                | G4F6             | 100-200                      | 25-30              | 30-35 |   |   |   |   |   |
+| Computer rooms                                | 19-21                                   | 1.4            | 1.0       | 21-25                                   | 1.3            | 13               | 100                                                                | F7-F9            | 300                          | 35-45              |       |   |   |   |   |   |
+| Conference board rooms                        | 22-23                                   | 1.1            | 1.0       | 23-25                                   | 1.1            | 0.6              | 100                                                                | F6-F7            | 300                          | 25-30              | 30-35 |   |   |   |   |   |
+| Drawing offices                               | 19-21                                   | 1.4            | 1.0       | 21-25                                   | 1.3            | 0.6              | 100                                                                | F7               | 750                          | 35-45              | 40-50 |   |   |   |   |   |
+| Dwellings:                                    |                                         |                |           |                                         |                |                  |                                                                    |                  |                              |                    |       |   |   |   |   |   |
+| bathrooms                                     | 20-22                                   | 0.9            |           | 23-25                                   | 0.9            |                  | 15                                                                 | G2-G4 (extract)  | 150                          |                    |       |   |   |   |   |   |
+| bedrooms                                      | 17-19                                   | 1.0            | 1.0       | 23-25                                   | 1.2            |                  | G2-G4                                                              | 100              | 25                           | 30                 | 55    |   |   |   |   |   |
+| hall/stairs/landings                          | 19-24                                   |                |           | 21-25                                   | 4              | O5               | control moisture                                                   | 100              |                              |                    |       |   |   |   |   |   |
+| kitchen                                       | 17-19                                   | 1.6            | 1.0       | 21-25                                   |                |                  | 60                                                                 | G2-G4 (extract)  | 150-300                      | 40-45              | 45-50 |   |   |   |   |   |
+| living rooms                                  | 22-23                                   | 1.0            |           | 23-25                                   | 0.6            |                  | G2-G4                                                              | 50-300           | 30                           | 35                 | 60    |   |   |   |   |   |
+| toilets                                       | 19-21                                   |                |           | 21-25                                   |                | control moisture | G2-G4                                                              |                  |                              |                    |       |   |   |   |   |   |
+| Educational buildings:                        |                                         |                |           |                                         |                |                  |                                                                    |                  |                              |                    |       |   |   |   |   |   |
+| corridor                                      | 19-21                                   | 1.0            |           | 21-25                                   | 1.3            |                  | 100                                                                | F7               | 100                          | 35-45              | 40-50 |   |   |   |   |   |
+| gymnasium                                     |                                         |                |           |                                         |                |                  | 300                                                                | 35-45            | 40-50                        | 65-75              |       |   |   |   |   |   |
+| laboratory                                    | 19-21                                   | 1.0            |           | 21-25                                   | 1.3            |                  | 100                                                                | F7               | 100                          | 35-40              | 40-45 |   |   |   |   |   |
+| lecture halls                                 | 19-21                                   | 1.0            |           | 21-25                                   | 1.3            |                  | 100                                                                | G4-G5            | 500                          | 25-30              | 30-40 |   |   |   |   |   |
+| seminar rooms                                 | 19-21                                   | 1.0            |           | 21-25                                   | 1.3            |                  | 100                                                                | G4-G5            | 300                          | 25-35              | 30-40 |   |   |   |   |   |
+| teaching spaces                               | 19-21                                   | 1.8            | 1.0       | 21-25                                   | 1.3            |                  | 100                                                                | G4-G5            | 300                          | 25-35              | 30-40 |   |   |   |   |   |
+| workshop                                      | 16-19                                   | 0.9            |           |                                         |                |                  | Depends                                                            | G3-G4            | 300                          | 40                 | 45    |   |   |   |   |   |
+| Exhibition halls                              | 19-21                                   | 1.0            |           | 21-25                                   | 1.3            |                  | 100                                                                | G3-G4            | 300                          | 40                 | 45    |   |   |   |   |   |
+
+# Contributors
+
+- Thermal environment and thermal comfort (Michael Humphreys and F.N.)
+- Outdoor thermal comfort (M.N.)
+- Air supply (Martin Liddament)
+- Visual environment (David Loe, Mike Wilson and Peter Tragenza)
+- Noise and Vibration (Bob Peters and John Shelton)
+
+www.cibse.org
+# Geoff Levermore
+
+# University of Manchester
+
+# Chapter 2 - External Design Data
+
+www.cibse.org
+# Updates and new data in A2
+
+# External design data
+
+Probabilistic climate profiles (ProCliP) graphs give an appreciation of the temperature rises through the century for different emissions scenarios.
+
+The urban heat island (UHI) data has been updated to give the UHI effect for the City of London and various distances out from it compared to Heathrow. Manchester data is also provided.
+
+www.cibse.org
+# 14 stations, full data including solar
+
+| Belfast    | Aldergrove            | Manchester Ringway | Woodford     |            |
+| ---------- | --------------------- | ------------------ | ------------ | ---------- |
+| Birmingham | Elmdon Coleshill      | Newcastle          | Newcastle WC | Albermarle |
+| Cardiff    | Rhoose, St Athan      | Norwich            | Marham       |            |
+| Edinburgh  | Turnhouse, Gogarbank  | Nottingham         | Watnall      |            |
+| Glasgow    | Abbotsinch, Bishopton | Plymouth           | Mountbatten  |            |
+| Leeds      | Church Fenton         | Southampton        | Hurn         |            |
+| London     | Heathrow              | Swindon            | Brize Norton |            |
+
+www.cibse.org
+# Details of the climate of the 14 stations mean annual and summer temps
+
+| Mean Temperature | Mean Temperature |
+| ---------------- | ---------------- |
+| Annual Average   | Summer Average   |
+| 1981-2010        | 1981-2010        |
+| 16 to            |                  |
+| 15 to 16         |                  |
+| 13 to 14         |                  |
+| 10 to 11         |                  |
+
+www.cibse.org
+# Updated cold and warm weather data as well as wet & dry bulb temps
+
+# Figure 2.3(g) Percentage frequencies of wet and dry bulb temperatures; June plotted on psychrometric chart: (1982-2011)
+
+# London (Heathrow)
+
+| 0.00  | 0.16 | 0.03 | 0.01 | 0.36 | 0.34 | 0.30 | 0.01 | 0.0125 |      |      |      |      |       |
+| ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------ | ---- | ---- | ---- | ---- | ----- |
+| 4.86  | 3.55 | 0.88 | 0.17 | 0.05 | 2    |      |      |        |      |      |      |      |       |
+| 5.021 | 0.98 | 6.26 | 3.88 | 1.46 | 0.36 | 0.12 | 0.01 | 0.008  | 1    |      |      |      |       |
+| 0.48  | 0.94 | 3.43 | 8.09 | 3.61 | 1.65 | 3.37 | 0.48 | 0.01   | 0.00 | 0.00 | 1    |      |       |
+| 0.0T  | 0.18 | 0.01 | 0.19 | 0.35 | 0.03 | 0.25 | 0.01 | 0.08   | 0.01 | 0.04 | 0.01 | 0.00 | 0.004 |
+
+# Dry bulb temperature / %
+
+www.cibse.org
+# Updated solar for 14 sites with simpler sol-air temp
+
+ITHd = global hor irrad
+
+# For horizontal surfaces:
+
+1, = 93 _ 79 € (2.1)
+
+# For vertical surfaces:
+
+1 = 21 _ 17C (2.2)
+
+where is the long wave radiation loss and C is the cloudiness.
+
+The maximum sol-air temperature for a horizontal surface (having solar absorptance long-wave 0.9 and emissivity 0.9) would be given by the following:
+
+(aIThd eI) Rse (2.3)
+
+www.cibse.org
+# Updated wind
+
+(1 knot = 0.51 ms⁻¹)
+
+86039 obs.
+
+29 calm
+
+0% variable
+
+| >33   | 28-33                                | 17-27 | 11-16 | 1-10 |
+| ----- | ------------------------------------ | ----- | ----- | ---- |
+| Knots | Period of data: Jan 2002 to Dec 2011 |       |       |      |
+
+Figure 2.8(g) Wind rose for London (Heathrow); similar wind roses for 14 UK locations may be downloaded from the CIBSE website (http://www.cibse.org/Guide-A/pdfs)
+
+www.cibse.org
+# Climate change data and charts
+
+| Base (1961-90)                | 2020s                   | 2050s                   | 2080s                   |
+| ----------------------------- | ----------------------- | ----------------------- | ----------------------- |
+| Very unlikely to be less than | 24                      | 26                      | 28                      |
+| Central estimate              | 30                      | 32                      | 34                      |
+| Very unlikely to be more than | (10% probability level) | (59% probability level) | (90% probability level) |
+| 33% to 67% probability range  |                         |                         |                         |
+
+Figure 2.12 Probabilistic climate profile (ProCliP): London summer (Jun, Jul, Aug) mean daily maximum temperatures (2012) (Shamash et al, www.cibse.org)
+# Urban heat island intensity (UHII)
+
+UHII is the extra temperature rise in the urban area compared to the rural area. For the CIBSE data the UHII is relative to Heathrow and near Manchester airports. Add on the UHII factors (from CIBSE tables) to the so-air temperatures.
+
+|                                 | London         |                   | Manchester     |                   |
+| ------------------------------- | -------------- | ----------------- | -------------- | ----------------- |
+|                                 | Summer daytime | Summer night-time | Winter daytime | Winter night-time |
+| Urban heat island intensity / K | 1              | 1                 | 3              | 7                 |
+| Urban heat island intensity / K | 8              | 7                 | 8              | 7                 |
+| Urban heat island intensity / K | 3              | ?                 | ?              | ?                 |
+| Urban heat island intensity / K | ?              | ?                 | ?              | ?                 |
+
+www.cibse.org
+# Chapter 3 – Thermal properties of Building Structures
+
+Brian Anderson
+
+BRE Scotland
+
+www.cibse.org
+# Thermal properties of building structures
+
+# Chapter 3
+
+Covers the determination of heat transmission properties of building elements – walls, floors, roofs, windows.
+
+It provides methods of calculation and associated data on the thermal conductivity of materials.
+
+# Insulation
+
+Figure 341 Dimensions for heat loss calculations
+
+www.cibse.org
+# Multifoil insulation
+
+- Products that consist of several layers of foil separated by other materials
+- New British Standard (BS EN 16012) which defines how to measure and declare insulation properties
+
+www.cibse.org
+# U-values of elements with inhomogeneous layers
+
+| Bridged elements are assessed using | Breather  | Vapour     |              |                |       |
+| ----------------------------------- | --------- | ---------- | ------------ | -------------- | ----- |
+| Plywood                             | sheathing | Barrier    |              |                |       |
+|                                     | Brickwork | Insulation | Cavity       | Timber         | frame |
+|                                     | Mortar    | joints     | Plasterboard | (Not to scale) |       |
+
+Now a maximum of 1.5 for the ratio of the two limits for the result to be considered valid.
+
+www.cibse.org
+# Blinds, curtains and secondary glazing
+
+# Revised data:
+
+| Description                                                      | Thermal resistance (m²KW) |
+| ---------------------------------------------------------------- | ------------------------- |
+| Heavy curtains                                                   | 0.16                      |
+| Well-fitting shutters                                            | 0.33                      |
+| Roller blind                                                     | 0.14                      |
+| Roller blind with low emissivity film facing towards the outside |                           |
+| Honeycomb insulated blind                                        | 0.24                      |
+| Secondary glazing                                                | 0.18                      |
+| Low emissivity secondary glazing                                 | 0.32                      |
+| Low emissivity secondary glazing and shutters                    |                           |
+
+www.cibse.org
+# Windows and roof windows
+
+# Revised data, including:
+
+- Gas filling between panes
+- Low emissivity of glass surfaces
+- Different frame types
+- Effect roof pitch for roof windows
+
+# Figure 315 Dimensions of window for calculation purposes
+
+| Projected area  | Window frame | sash      |
+| --------------- | ------------ | --------- |
+| Length of Inner | peilmelen    | of Window |
+| frame           | sash         | (pwl)     |
+| Projected       | glazing (Ag) |           |
+
+www.cibse.org
+# Thermal by-passes
+
+• Can be a significant cause of heat loss
+
+# Table 3.32 O-values party walls
+
+| Party wall construction                                                                                           | U-value (W/m²K) |
+| ----------------------------------------------------------------------------------------------------------------- | --------------- |
+| Solid (including structurally insulated panel)                                                                    |                 |
+| Unfilled cavity with effective edge sealing                                                                       |                 |
+| Unfilled cavity with effective sealing around all exposed edges and line with insulation layers abutting concrete |                 |
+| Unfilled cavity where the party wall closes at ceiling level by robust construction elements                      |                 |
+| Concrete floor slab (not minerally filled cavity barrier)                                                         |                 |
+| Fully filled cavity with effective sealing at all exposed edges and line with insulation layers abutting concrete |                 |
+
+• Future research may provide more detailed information
+
+www.cibse.org
+# Thermal bridging
+
+- Of potentially increasing significance as insulation of structures is raised
+- Heat loss calculations should include the effect of thermal bridges and the Guide indicates how they can be evaluated
+
+www.cibse.org
+# Chapter 4 – Ventilation and Infiltration
+
+Martin Liddament
+
+VEETEC Ltd
+
+www.cibse.org
+# Chapter 4 Ventilation and Air Infiltration
+
+At the time of preparation issues about the future of ventilation methods and the impact of infiltration on energy consumption were important. Considerations included:
+
+- Airtightness – Legal requirements to reduce CO2 emissions
+- Ventilation more mechanised to provide control
+- The Future of Natural Ventilation
+
+www.cibse.org
+# Background: The Future of Natural Ventilation
+
+# Building Regulations
+
+# NHBC (2012)
+
+# (June 2009 Consultation Volume 1)
+
+# Communities
+
+# Proposals for amending Part Land Part F of the Building Regulations Consultation Volume
+
+0E3 Indoor air quality in highly energy efficient homes
+
+# LZA a review MIIIL
+
+“It is likely to become more challenging to provide adequate ventilation rates using natural ventilation systems and this will give impetus to mechanical ventilation systems”.
+
+“In order to satisfy the energy use demands of the Code for Sustainable Homes in homes built to Code Level 4 and above, it is expected that mechanical ventilation with heat recovery will need to be applied in order to achieve an acceptable indoor climate, which represents something of a culture change in the UK.”
+
+www.cibse.org
+# Saving Carbon – Improving Health
+
+However… Many UK Organisations promote natural ventilation
+
+# Air conditioning
+
+Maximising comfort, minimising energy consumption
+
+The Carbon Trust: “A typical air conditioned building has double the energy cost and associated CO₂ emissions of a naturally ventilated building. It is also more likely to have increased capital and maintenance costs”.
+
+# Creating excellent secondary Schools
+
+The Commission for Architecture and the Built Environment (responsible for UK secondary school design): “Many basic issues of energy performance have been overlooked including the potential to minimise mechanical ventilation by using passive ventilation. Buildings designed with passive ventilation have improved resilience to energy supply failure and are more energy efficient than mechanically ventilated buildings. In an acute hospital up to 70% of net floor space could be entirely or partially naturally ventilated”.
+
+www.cibse.org
+# Background: Outcome
+
+Still a strong demand for buildings to be naturally ventilated.
+
+Much progress on the implementation of mechanical systems in buildings that were formerly naturally ventilated (e.g. dwellings).
+
+Many lessons still to be learnt about ventilation performance in practice and about the impact of airtightness.
+
+A continuing need to consider all aspects of air infiltration and ventilation in Guide A.
+
+www.cibse.org
+# Proposed Structure and Content
+
+Maintain as much of the existing information as possible
+
+- Extend information on mechanical systems
+- Update information on airtightness (air permeability) and testing.
+- Cover ventilation related air quality issues
+
+www.cibse.org
+# What is in the Chapter 4 of the CIBSE Guide?
+
+- An attempt to give a basic understanding with simple tools that can be set up on a spread sheet.
+- Includes:
+- Basic theoretical concepts WITH limitations
+- Airtightness (air permeability testing)
+- Mechanical ventilation
+- Heat recovery
+- Natural ventilation and infiltration including wind, stack and combined wind and stack driving forces
+- Single sided ventilation
+- Terrain conditions
+- Sheltering
+- Variability and control of ventilation systems
+- Basic calculations
+- Dilution equation
+- Relevant Data
+
+www.cibse.org
+# Mechanical Systems
+
+| System Type                             | Exhaust                     | Supply air intake                |
+| --------------------------------------- | --------------------------- | -------------------------------- |
+| Displacement Ventilation                |                             |                                  |
+| Mixing Ventilation                      | Heat                        |                                  |
+| Heat Recovery                           | recovety                    |                                  |
+| Filtration                              | (alternative recirculation) | Filter Chiller Heater Humidifier |
+| Dampers                                 | Mixing                      | dehumidifier                     |
+| Specific Fan Power                      |                             |                                  |
+| Draw-through arrangement                |                             |                                  |
+| Recirculation system                    |                             |                                  |
+| Control                                 | Silencer                    |                                  |
+| Extract fan                             |                             |                                  |
+| Extract grille                          |                             |                                  |
+| Air terminal unit                       | (diffused)                  |                                  |
+| Based on BRECSU Good Practice Guide 257 |                             |                                  |
+| May be coupled to:                      |                             |                                  |
+| fan coil unit                           |                             |                                  |
+| VAV system beam                         |                             |                                  |
+| active chilled                          |                             |                                  |
+
+www.cibse.org
+# Natural Ventilation Systems
+
+- System Type
+- Weather Parameters
+- Variability of Driving Forces
+- Calculation Methods
+
+Based on BRECSU
+
+Good Practice Guide 257
+
+www.cibse.org
+# Calculating Ventilation Rate
+
+# Hourly Weather Data
+
+# Building Data
+
+# Wind
+
+# Outdoor Velocity
+
+# Outdoor Temperature
+
+# Dimensions
+
+# Airtightness
+
+# Calculation Model
+
+# for
+
+# Opening
+
+# - Air Infiltration
+
+# - Ventilation Rate
+
+# - Air Quality
+
+# - Energy Demand
+
+# Mech Vent
+
+# Rates
+
+# Room Temperature
+
+# Infiltration/Ventilation Rate
+
+# Indoor Pollutant Concentration
+
+# Outdoor Emissions
+
+# Indoor Emissions
+
+www.cibse.org
+# Variability of Natural Driving Forces
+
+8760 hours of data in a year
+
+Ideally need to carry out an hourly analysis. Only possible with simple calculation techniques
+
+# Hourly Wind Speed Birmingham 1997
+
+Example Hourly Wind Speed (Birmingham)
+
+|    | Wind Speed (m/s) |   |   |   |
+| -- | ---------------- | - | - | - |
+| 16 | 16               |   |   |   |
+| 14 | 14               |   |   |   |
+| 12 | 12               |   |   |   |
+| 10 | 10               |   |   |   |
+| 8  | 8                |   |   |   |
+| 6  | 6                |   |   |   |
+| 4  | 4                |   |   |   |
+| 2  | 2                |   |   |   |
+| 0  | 0                |   |   |   |
+
+Time (Hours) Jan - Dec
+
+# Hourly Temperature Birmingham 1997
+
+Example Hourly Temperature (Birmingham)
+
+|    |   | Temperature (Deg C) |   |
+| -- | - | ------------------- | - |
+|    |   | 35                  |   |
+| 30 |   |                     |   |
+|    |   | 25                  |   |
+| 20 |   |                     |   |
+|    |   | 15                  |   |
+| 10 |   |                     |   |
+|    | 5 |                     |   |
+| 0  |   |                     |   |
+|    |   | -5                  |   |
+|    |   | -10                 |   |
+
+Hours
+# Can use hourly wind and temperature weather data from Chapter 2
+
+# Temperature SC
+
+| Temperature Range | 0-2   | 2-4   | 4-6   | 6-8  | 8-10 | 10-12 | 12-14 | 14-16 | 16-18 | 18-20 | 20-22  | 22-24 | 24-26 | 26-28 | 28-30 | 30-32 | All speeds |
+| ----------------- | ----- | ----- | ----- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ------ | ----- | ----- | ----- | ----- | ----- | ---------- |
+| -12.0 to -10.1    |       | 0.01  |       |      |      |       |       |       |       |       |        |       |       |       |       |       |            |
+| -10.0 to -8.1     | 0.01  | 0.00  |       |      |      |       |       |       |       |       |        |       |       |       |       |       |            |
+| -8.0 to -6.1      | 0.02  | 0.01  |       | 0.03 |      |       |       |       |       |       |        |       |       |       |       |       |            |
+| -6.0 to -4.1      | 0.10  | 0.04  | 0.02  | 0.01 | 0.00 |       | 0.17  |       |       |       |        |       |       |       |       |       |            |
+| -4.0 to -2.1      | 0.27  | 0.16  | 0.07  | 0.04 | 0.02 |       | 0.56  |       |       |       |        |       |       |       |       |       |            |
+| -2.0 to -0.1      | 0.84  | 0.52  | 0.20  | 0.08 | 0.03 | Qmd   |       | 1.67  |       |       |        |       |       |       |       |       |            |
+| 0.0 to 1.9        | 1.60  | 1.29  | 0.54  | 0.17 | 0.03 |       | 3.64  |       |       |       |        |       |       |       |       |       |            |
+| 2.0 to 3.9        | 2.22  | 2.16  | 1.13  | 0.39 | 0.06 | Q0l   |       | 5.96  |       |       |        |       |       |       |       |       |            |
+| 4.0 to 5.9        | 2.55  | 3.14  | 1.76  | 0.58 | 0.1  | 0M    | 0o    |       | 8.20  |       |        |       |       |       |       |       |            |
+| 6.0 to 7.9        | 2.79  | 3.87  | 2.35  | 0.86 | 0.16 | 0.6   | 0.01  | Wo    |       | 10.19 |        |       |       |       |       |       |            |
+| 8.0 to 9.9        | 2.73  | 4.35  | 2.98  | 1.26 | 0.43 | 0.10  | 0.02  | Q00   | 000   |       | 11.88  |       |       |       |       |       |            |
+| 10.0 to 11.9      | 2.74  | 4.42  | 3.09  | 1.53 | 0.55 | 0.1   | 0.03  | 0.01  | 0.00  |       | 12.52  |       |       |       |       |       |            |
+| 12.0 to 13.9      | 2.84  | 4.19  | 2.79  | 1.25 | 0.43 | 0.12  | 0.03  | 0.01  | 0.00  |       | 11.66  |       |       |       |       |       |            |
+| 14.0 to 15.9      | 2.45  | 4.14  | 2.73  | 1.02 | 0.27 | 0.06  | 0.01  |       | 10.66 |       |        |       |       |       |       |       |            |
+| 16.0 to 17.9      | 1.73  | 3.28  | 2.47  | 0.86 | 0.21 | 0.0   |       | 8.59  |       |       |        |       |       |       |       |       |            |
+| 18.0 to 19.9      | 1.08  | 2.22  | 1.83  | 0.70 | 0.16 | 0.03  |       | 6.02  |       |       |        |       |       |       |       |       |            |
+| 20.0 to 21.9      | 0.59  | 1.41  | 1.14  | 0.45 | 0.09 | 0.02  |       | 3.70  |       |       |        |       |       |       |       |       |            |
+| 22.0 to 23.9      | 0.29  | 0.90  | 0.72  | 0.26 | 0.03 |       | 2.21  |       |       |       |        |       |       |       |       |       |            |
+| 24.0 to 25.9      | 0.15  | 0.54  | 0.42  | 0.13 | 0.01 |       | 1.26  |       |       |       |        |       |       |       |       |       |            |
+| 26.0 to 27.9      | 0.06  | 0.30  | 0.22  | 0.08 | 0.01 |       | 0.67  |       |       |       |        |       |       |       |       |       |            |
+| 28.0 to 29.9      | 0.01  | 0.12  | 0.10  | 0.05 | 0.00 |       | 0.27  |       |       |       |        |       |       |       |       |       |            |
+| 30.0 to 31.9      | 0.00  | 0.04  | 0.05  | 0.02 | 0.00 |       | 0.12  |       |       |       |        |       |       |       |       |       |            |
+| 32.0 to 33.9      |       | 0.01  | 0.01  | 0.00 |      | 0.03  |       |       |       |       |        |       |       |       |       |       |            |
+| 34.0 to 35.9      |       | 0.00  | 0.00  |      | 0.01 |       |       |       |       |       |        |       |       |       |       |       |            |
+| 36.0 to 37.9      |       | 0.00  |       | 0.00 |      |       |       |       |       |       |        |       |       |       |       |       |            |
+| All temps         | 25.07 | 37.11 | 24.62 | 9.73 | 2.74 | 0.60  | 0.10  | 0.02  | 0.01  |       | 100.00 |       |       |       |       |       |            |
+
+www.cibse.org
+# Indoor Air Quality
+
+# Noise
+
+# Fungi
+
+# Odour
+
+| Industrial Pollutants | Carbon Dioxide |
+| --------------------- | -------------- |
+| VOCs                  | Moisture       |
+| Formaldehyde          |                |
+| Traffic Fumes         | Bacteria       |
+| Ozone                 | Smoke          |
+| Pollen                |                |
+| Radon                 | Methane        |
+| Moisture              |                |
+
+# +4
+
+# Dilution Equation - Pollutant Removal
+
+q + q
+
+www.cibse.org
+# Ventilation Control using Metabolic CO2
+
+|      | Single Room Occupancy                                                 | Two Person Occupancy                                            |
+| ---- | --------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 2500 | Steady state achieved: (Per person ventilation rate can be evaluated) | Steady state not yet reached                                    |
+| 2000 |                                                                       |                                                                 |
+| 1500 | Room Unoccupied                                                       | (Whole room ventilation rate from bed determination decay rate) |
+| 1000 | Outdoor CO2 Concentration                                             | (Approx 400 ppm)                                                |
+| 500  |                                                                       |                                                                 |
+
+# CO2 as a 'Surrogate' for Metabolic Pollution and as a 'Tracer' Gas
+
+- Metabolic CO2 increasingly popular as a 'control' method;
+- Linked to the presence and number of occupants;
+- Relatively easy and inexpensive to measure;
+- Considerable discussion about set-point level;
+- CO2 concentration has been linked to occupant performance:
+
+www.cibse.org
+# Other Items Related to Ventilation
+
+# Empirical infiltration data for various air permeabilities and building sizes
+
+# Table 4.19 Empirical values for air infiltration rate due to air infiltration for rooms in buildings on normally exposed sites in winter: office type 4 (air conditioned HQ-type building Up to 20 storeys); sheltered (up to 4 storeys), partial exposure (up to 12 storeys), exposed (above 12 storeys)
+
+| Air permeability (m³/m²-h at 50 Pa)     | < 2 storeys\* | < 4 storeys\* | < 8 storeys\* | < 12 storeys\* | < 16 storeys\* | < 20 storeys\* |      |         |      |         |      |         |      |         |      |         |
+| --------------------------------------- | ------------- | ------------- | ------------- | -------------- | -------------- | -------------- | ---- | ------- | ---- | ------- | ---- | ------- | ---- | ------- | ---- | ------- |
+|                                         | Peak          | Average       | Peak          | Average        | Peak           | Average        | Peak | Average | Peak | Average | Peak | Average | Peak | Average | Peak | Average |
+| 20.0 (leaky)                            | 0.60          | 0.34          | 0.60          | 0.35           | 0.65           | 0.45           | 0.80 | 0.50    | 0.90 | 0.65    | 0.95 | 0.65    |      |         |      |         |
+| 10.0 (Part L (2002))                    | 0.30          | 0.17          | 0.30          | 0.20           | 0.35           | 0.25           | 0.40 | 0.25    | 0.45 | 0.35    | 0.50 | 0.35    |      |         |      |         |
+| 7.0 (Part L (2005))                     | 0.20          | 0.12          | 0.25          | 0.15           | 0.25           | 0.15           | 0.30 | 0.20    | 0.35 | 0.25    | 0.35 | 0.25    |      |         |      |         |
+| 5.0                                     | 0.15          | 0.08          | 0.15          | 0.10           | 0.20           | 0.15           | 0.20 | 0.15    | 0.25 | 0.20    | 0.25 | 0.20    |      |         |      |         |
+| 3.0                                     | 0.10          | 0.05          | 0.10          | 0.05           | 0.10           | 0.10           | 0.15 | 0.10    | 0.15 | 0.10    | 0.15 | 0.10    |      |         |      |         |
+| Air change rate at 50 Pa (/ h-l)        |               | 3.80          |               | 2.55           | 1.95           | 1.75           | 1.65 | 1.55    |      |         |      |         |      |         |      |         |
+| ACRso divisor (length X width X height) |               | 22.3          |               | 15.0           | 8.8            | 7.2            | 5.2  | 4.7     |      |         |      |         |      |         |      |         |
+
+Note: tabulated values should be adjusted for local conditions of exposure
+
+www.cibse.org
+# Other Items Related to Ventilation
+
+# Tables of (approximate) wind pressure data
+
+# Table 4.4l.6 Wind pressure coefficient data
+
+Low-rise buildings (up to 3 stories)
+
+Length to width ratio: 2:1
+
+Shielding condition: highly sheltered (i.e: surrounded by obstructions equivalent to the full height of the building)
+
+Wind angle
+
+Wind speed reference level: building height
+
+| Location            | Wind angle | 459   | 908    | 1358  | 1808   | 2250   | 270°  | 3158   |       |       |       |      |       |
+| ------------------- | ---------- | ----- | ------ | ----- | ------ | ------ | ----- | ------ | ----- | ----- | ----- | ---- | ----- |
+| Face                |            | 0.06  | -0.12  | -0.2  | -0.38  | -0.3   | -0.38 | -0.2   | 0.12  |       |       |      |       |
+| Face 2              |            | -0.3  | -0.38  |       |        |        |       | -0.2   | \~.12 | 0.06  | -0.12 | -0.2 | -0.38 |
+| Face 3              |            | -0.3  | 0.15   | 0.18  | 0.15   | -0.3   |       | -0.32  | -0.2  | -0.32 |       |      |       |
+| Face 4              |            | -3    | -0.32  | H0.2  | -0.32  | -0.3   |       | 0.15   | 0.18  | 0.15  |       |      |       |
+| Roof ( > 10')       | Front      | \~.49 | -0.46  | -0.41 | -0.46  | -.49   | -0.46 | -0.41  | -0.46 |       |       |      |       |
+| Rear                | -0.49      | 70.46 | -.41   | -.46  | -0.49  | -0.46  | -0.41 | -0.46  |       |       |       |      |       |
+| Average             | -0.49      | -0.46 | -0.41  | -0.46 | \~0.49 | -0.46  | -0.41 | \~0.46 |       |       |       |      |       |
+| Roof (11-30° pitch) | Front      | -0.49 | -.46   | \~.41 | -.46   | \~0.4  | -0.46 | -0.41  | -.46  |       |       |      |       |
+| Rear                | J.4        | \~.46 | -0.41  | -0.46 | -0.49  | -.46   | -.41  | 3.46   |       |       |       |      |       |
+| Average             | \~45       | -0.46 | -0.41  | -0.46 | -0.45  | \~.46  | -0.41 | -0.46  |       |       |       |      |       |
+| Roof (> 30° pitch)  | Front      | 0.06  | \~0.15 | -0.23 | \~.6   | \~.42  | -.6   | -0.23  | -.15  |       |       |      |       |
+| Rear                | -0.42      | -0.6  | \~.23  | \~15  | -0.06  | \~0.15 | -0.23 | 4.6    |       |       |       |      |       |
+| Average             | -0.18      | -.4   | \~.23  | 44    | -0.18  | -04    | -0.23 | -0.4   |       |       |       |      |       |
+
+# Other Items Related to Ventilation
+
+# Tables of (approximate) component leakage data
+
+# Appendix 4.A2: Summary of measured air leakage data
+
+The following tables are reproduced from A Guide to energy-efficient ventilation (Liddament; 1996).
+
+# Table 4.A2.1 Leakage characteristics: windows
+
+| Type                           | Flow coefficient; € / (Lrs-Lm-LPa-"); and | Sample size | fow exponent; n, for each metre length of joint |      |      |      |     |    |   |   |
+| ------------------------------ | ----------------------------------------- | ----------- | ----------------------------------------------- | ---- | ---- | ---- | --- | -- | - | - |
+| Windows (weatherstripped):     | hinged                                    | 0.086       | 0.6                                             | 0.13 | 0.6  | 0.41 | 0.6 | 29 |   |   |
+| sliding                        | 0.079                                     | 0.6         | 0.15                                            | 0.6  | 0.21 | 0.6  | 19  |    |   |   |
+| Windows (non-weatherstripped): | hinged                                    | 0.39        | 0.6                                             | 0.74 | 0.6  | 1.1  | 0.6 | 42 |   |   |
+| sliding                        | 0.18                                      | 0.6         | 0.23                                            | 0.6  | 0.37 | 0.6  | 36  |    |   |   |
+| Louvre (expressed per louvre)  |                                           |             | 0.34                                            |      |      |      |     |    |   |   |
+
+# Other Items Related to Ventilation
+
+# Simple Algorithm that solves the Ventilation/Infiltration Equation for natural and mechanical driving forces (single zone) sizes.
+
+Ventilation and air infiltration 4-39
+
+# Appendix 4.A3: Air infiltration development algorithm (AIDA)
+
+# 4.A3.1 Introduction
+
+Care must be taken when entering data since there is no error trapping and no editing facility. It will be necessary to restart the program if an error is made.
+
+This algorithm was developed by the Air Infiltration and Ventilation Centre (AIVC) and is reproduced here by kind permission of AIVC. CIBSE cannot take responsibility for its accuracy: Any queries regarding the algorithm or its use should be referred to the AIVC.
+
+AIDA is a basic infiltration and ventilation calculation procedure intended for the calculation of air change rates in single-zone enclosures. It also resolves flow rates for any number of user-defined openings and calculates wind and stack pressures. The program is easy to use and provides an accurate solution to the flow balance equation. As its name suggests, this is a development algorithm that may be adapted to suit individual needs. It uses concepts outlined in Chapter 12 of AIVC's Guide to Energy Efficient Ventilation (Liddament; 1996).
+
+# 4.A3.3 Solution technique
+
+The flow balance equation is solved by iteration using a combination of 'bisection' and 'addition'. An internal pressure, known to be substantially negative with respect to the true pressure, is selected as a starting condition. For most applications, a value of -100 Pa should be satisfactory and is introduced automatically at line 320. Successive iterations improve the internal pressure value until a flow balance within 0.0001 m2s-1 is achieved. The flow balance.
+# Michael Holmes
+
+# Arup
+
+# Chapter 5 – Thermal Response and Plant Sizing
+
+www.cibse.org
+# David Williams
+
+# WSP/Parsons Bickerhoff
+
+# Chapter 5 – Thermal Response and Plant Sizing
+
+www.cibse.org
+# Chapter 5, Thermal Design Plant Sizing and Energy Conservation
+
+# Introduction
+
+- Current form based on 1999 revision – recognition of design calculation at various levels
+- Next revision in 2006 – ‘computerisation’ of the Guide
+- 2015 revision
+- Development along similar vein
+- Further coverage on airflow modelling, system simulation and energy calculation
+- Title change from ‘Thermal Design and Plant Sizing’ to ‘Thermal Design Plant Sizing and Energy Conservation’
+
+www.cibse.org
+# Chapter 5, Thermal Design Plant Sizing and Energy Conservation
+
+- Michael Holmes (Arup)
+
+Principle author
+- Matthew Collin (MC Building Physics)
+
+Examples and the Performance assessment methodology later moved to A0
+- Malcolm Cook (Loughborough University) and Darren Woolf (Loughborough University and Hoare Lea)
+
+Airflow modelling
+- Yudish Dabee (Mott MacDonald)
+
+Methodology for the calculation of cooling loads
+- Foroutan Parand (AECOM)
+
+Quality management which evolved into A0
+- Andrew Wright (De Montfort University)
+
+Thermal mass also editing early versions
+- David Williams (WSP|Parsons Brinckerhoff)
+
+Energy consumption and technical check
+
+www.cibse.org
+# Chapter 5, Thermal Design Plant Sizing and Energy Conservation
+
+# Chapter 5 – Examples of New Material
+
+| Air flow modelling                              |                              |      |      | Component plant modelling |                      |                      |            |        |           |
+| ----------------------------------------------- | ---------------------------- | ---- | ---- | ------------------------- | -------------------- | -------------------- | ---------- | ------ | --------- |
+| extz                                            |                              | ext6 |      |                           |                      |                      |            |        |           |
+| Pexti                                           | int1                         | intz | int3 | exts                      | Nodal networks       |                      |            |        |           |
+| HVAC System Modelling – Psychrometric Modelling | ext}                         | 4nid | ext7 |                           |                      |                      |            |        |           |
+| External node                                   |                              |      |      | Frost coll                | Supply fan and motor | Heat recovery device | Humidifier |        |           |
+| Internal node                                   | Temperature, °C              |      |      |                           |                      |                      |            |        |           |
+|                                                 | ext5                         | 25.0 |      |                           |                      |                      |            |        |           |
+| Flow resistance                                 | 24.5                         |      |      |                           |                      |                      |            |        |           |
+|                                                 | 24.0                         |      |      |                           |                      |                      |            |        |           |
+|                                                 | 23.5                         |      |      |                           |                      |                      |            |        |           |
+|                                                 |                              | 23.0 |      |                           |                      |                      |            |        |           |
+|                                                 |                              | 72.5 |      |                           |                      |                      |            |        |           |
+|                                                 | 22.0                         |      |      |                           |                      |                      |            |        |           |
+|                                                 | 21.5                         |      |      |                           |                      |                      |            |        |           |
+|                                                 | 20.0                         |      |      |                           |                      |                      |            |        |           |
+|                                                 |                              |      |      |                           |                      |                      | Air out    |        |           |
+| Computational Fluid Dynamics                    | Detailed Component Modelling |      |      |                           |                      |                      |            |        |           |
+|                                                 |                              |      |      |                           |                      |                      | Water in   | Air in | Water out |
+
+www.cibse.org
+# Chapter 5, Thermal Design Plant Sizing and Energy Conservation
+
+# Chapter 5 – Examples of New Material
+
+# Overheating Risk Calculation
+
+# Thermal Storage Systems
+
+| U  | 25                          | Adaptive         | 12.3    | Solidification | Phase change | materials |
+| -- | --------------------------- | ---------------- | ------- | -------------- | ------------ | --------- |
+| L  | 23                          | range            | 1       |                |              |           |
+| ]  | 19                          |                  | 2       |                |              |           |
+| 17 | Summertime                  | performance      | 21      | 23             | 24           | 25        |
+| 26 | 28                          | 29               | 10      | 14             | 16           | 18        |
+| 20 | 22                          | Temperature / %C | 27      | 30             | 35           |           |
+| 1  | Running mean temperature 'C | predictions      |         |                |              |           |
+| 1  |                             |                  | 30      | 25             | L            | 20        |
+| 1  |                             |                  | 15      |                |              |           |
+| 1  | Low air speed               | Ground thermal   | storage |                |              |           |
+| 10 | 12                          | 14               | 16      | 18             | 20           | 22        |
+| 24 | Running mean temperature    |                  |         |                |              |           |
+
+www.cibse.org
+# Chapter 5, Thermal Design Plant Sizing and Energy Conservation
+
+# Chapter 5 – Examples of New Material
+
+# Building Energy Demand
+
+# Role and limitations of energy models
+
+# Application of calculation methods:
+
+- Annual benchmarking
+- Bin methods and degree days
+- Quasi-steady state
+- Hourly dynamic calculations
+
+# Factors to consider:
+
+- Geometry, zoning, climate, materials, solar, ventilation, heat gains, non-thermal, plant
+
+# Total heat transmission
+
+# Total heat gain
+
+# Building heat flow paths
+
+www.cibse.org
+# Chapter 5, Thermal Design Plant Sizing and Energy Conservation
+
+# Chapter 5 – Sister Publication
+
+# Application Manual 11 – Building Performance Modelling (AM11)
+
+Due for publication in the next few months
+
+# Building energy and environmental modelling
+
+Refresh of the 1998 manual
+
+# Applications Manual AMII: 1998
+
+- Quality Assurance
+- Modelling for Building Energy Regulation
+- Energy Modelling
+- Thermal Environment Modelling
+- Ventilation Modelling
+- Lighting Modelling
+- Plant and Renewable Energy Systems
+- Case Studies
+
+www.cibse.org
+# David Arnold
+
+# Troup Bywaters + Anders
+
+# Chapter 6 – Internal Heat Gains
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+# 6 Internal heat gains
+
+# 6.1 Introduction
+
+# 6.2 Benchmark values for internal heat gains
+
+# 6.3 Occupants
+
+# 6.4 Lighting
+
+# 6.5 Personal computers and office equipment
+
+# 6.6 Electric motors
+
+# 6.7 Cooking appliances
+
+# 6.8 Hospital and laboratory equipment
+
+# 6.9 Heat gain from laboratory animals
+
+# 6.10 Domestic appliances and equipment
+
+# References
+
+6-11
+
+# Appendix 6.A1: Rate of heat gain from restaurant/cooking equipment
+
+6-13
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+- Provides information on heat gains in buildings and guidance for designers to assist them estimating the most appropriate allowances
+- Designers can either calculate internal heat gains from basic principles or base them on ‘Benchmark’ values
+- Benchmarks are available for typical buildings and listed in table 6.2
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+Building type
+
+|                    |                          |        |                          |            |            |   |
+| ------------------ | ------------------------ | ------ | ------------------------ | ---------- | ---------- | - |
+| Use                | Floor area per person m2 | People | Sensible heat gain W-m-2 | Lighting\* | Equipmentt |   |
+| Offices            | General                  | 12     | 6.7                      | 8-12       | 15         |   |
+|                    | 16                       |        | 8-12                     | 12         |            |   |
+| City centre        |                          | 10     | 13.5                     | 8-12       | 25         |   |
+|                    |                          |        | 8-12                     | 18         |            |   |
+| Trading/dealing    |                          | 16     | 12-15                    | 40 +       |            |   |
+| Call centre floor  |                          | 16     |                          | 8-12       | 60         |   |
+| Meeting/conference |                          | 27     |                          | 10-20      |            |   |
+| IT rack rooms      |                          |        |                          | 8-12       | 200        |   |
+
+BCO Guide 2014 Terminal Cooling Small Power Allowance
+
+Conventional Office Density 1:10m²  20 W/m²
+
+High Density Offices 1:8m²          25 W/m²
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+# What’s new?
+
+- Table showing the estimated heat emission from an adult male body at different temperatures and levels of activity omitted from 2006 edition re-introduced in response to requests;
+- Heat emitted by office equipment updated to reflect current trends in more efficient models now in use;
+- Heat emitted by low energy lamps added;
+- New measurements of the radiative, convective and conductive split of heat from lighting fittings added;
+- New heat emission from cooking equipment added;
+- Tables of heat emitted by Hospital and Medical equipment added.
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+Activity
+
+|                               |                                |                                                                                                              |           |           |           |           |           |           |           |           |           |           |           |
+| ----------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------ | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Typical application           | Occupancy density (m-2/person) | Total, sensible and latent heat emission for stated application and dry bulb temperature (°C) for adult male | Sensible  | Latent    | Sensible  | Latent    | Sensible  | Latent    |           |           |           |           |           |
+| Seated, inactive              | Theatre, cinema matinee        | 0.75-1.0 (2,3)                                                                                               | 115 (100) | 100 (87)  | 15 (13)   | 90 (78)   | 25 (22)   | 80 (70)   | 35 (30)   | 75 (65)   | 40 (35)   | 65 (57)   | 50 (43)   |
+| Seated, inactive              | Theatre, cinema evening        | 0.75-1.0 (2,3)                                                                                               | 115 (105) | 100 (91)  | 15 (14)   | 90 (82)   | 25 (23)   | 80 (73)   | 35 (32)   | 75 (68)   | 40 (37)   | 65 (59)   | 50 (46)   |
+| Seated, light work            | Restaurant                     | 1.0-2.0 (2,3)                                                                                                | 140 (126) | 110 (99)  | 30 (27)   | 100 (90)  | 40 (36)   | 90 (81)   | 50 (45)   | 80 (72)   | 60 (54)   | 70 (63)   | 70 (63)   |
+| Seated, moderate work         | Office                         | 8-39+-6),1404,7)\*                                                                                           | 140 (130) | 110 (102) | 30 (28)   | 100 (93)  | 40 (37)   | 90 (84)   | 50 (46)   | 80 (74)   | 60 (56)   | 70 (65)   | 70 (65)   |
+| Standing, light work; walking | Department store               | 1.7-4.302 (2,3)                                                                                              | 160 (141) | 120 (106) | 40 (35)   | 110 (97)  | 50 (44)   | 100 (88)  | 60 (53)   | 85 (75)   | 75 (66)   | 75 (66)   | 85 (75)   |
+| Standing, light work; walking | Bank                           |                                                                                                              | 160 (142) | 120 (107) | 40 (35)   | 110 (98)  | 50 (44)   | 100 (89)  | 60 (53)   | 85 (76)   | 75 (66)   | 75 (66)   | 85 (76)   |
+| Light bench work              | Factory                        |                                                                                                              | 235 (209) | 150 (133) | 85 (76)   | 130 (116) | 105 (93)  | 115 (102) | 120 (107) | 100 (89)  | 135 (121) | 80 (71)   | 155 (138) |
+| Medium bench work             | Factory                        |                                                                                                              | 265 (249) | 160 (150) | 105 (99)  | 140 (132) | 125 (117) | 125 (117) | 140 (132) | 105 (99)  | 160 (150) | 90 (85)   | 175 (164) |
+| Heavy work                    | Factory                        |                                                                                                              | 440 (440) | 220 (220) | 220 (220) | 190 (190) | 250 (250) | 165 (165) | 275 (275) | 135 (135) | 305 (305) | 105 (105) | 335 (335) |
+| Moderate dancing              | Dance hall                     | 0.5-1.0                                                                                                      | 265 (249) | 160 (150) | 105 (99)  | 140 (132) | 125 (117) | 125 (117) | 140 (132) | 105 (99)  | 160 (150) | 90 (85)   | 175 (164) |
+
+# Notes:
+
+Figures in parenthesis are adjusted heat gains based on normal percentage of men, women and children for the applications listed. This is based on the heat gain for women and children of 85% and 75% respectively of that of an adult male.
+
+For restaurant serving hot meals add 10 W sensible and 10 W latent for food per individual.
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+Heat emitted by office equipment updated to reflect current trends in more efficient models now in use; The results of new experimental measurements of heat gain from office equipment including from flat panel monitors. The data is now presented with the radiant convective split. have been carried out by Hosni and Beck (2011). The results are shown in Table 6.6.
+
+| Table 6.6          |               |
+| ------------------ | ------------- |
+| Office Equipment   | Heat Gain (W) |
+| Flat Panel Monitor | XX            |
+| Other Equipment    | YY            |
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+Heat emitted by low energy lamps added; The Society of Light and Lighting does not recommend the use of LED substitute fluorescent lamps but, at the time of writing, several new fittings that are more energy efficient and offer reasonable quality of light have become available commercially.
+
+22
+
+233
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+# Key design criteria
+
+| 1:8                             | Air conditioning systems | Energy and sustainability targets   | Low zero carbon (LZC) technologies |
+| ------------------------------- | ------------------------ | ----------------------------------- | ---------------------------------- |
+| Low energy fan coil unit system | Building regulations     | 300kW (electrical output) fuel cell | Roof mounted PVs                   |
+| Active chilled beam system      | PEA 21.8k900 (I (arum    | 7130i2a0 I0 general                 | 2720] @h per Y33                   |
+| compliance Maggh CrEr 2010 Fan  | rojiaikn: 0\[24.153      | BREEAM                              |                                    |
+
+# Occupational density
+
+# Plant locations
+
+| Levels (part floor) | 37 |
+| ------------------- | -- |
+
+# Load densities for cooling
+
+# Lighting
+
+# Small power
+
+# Additional tenant equipment allowance
+
+| \~InsMno Mildez | 2500 A | Comprehensive energy metering system |
+| --------------- | ------ | ------------------------------------ |
+
+# Additional cooling allowance
+
+# Ventilation and catering facilities
+
+# Outside air rate
+
+# Tenant catering facilities
+
+| JJkv supply | Louce JjkV supply |
+| ----------- | ----------------- |
+
+# Footnotes
+
+XBECMM *7COm End coer OKIB olvarnogtes
+
+roper ICI .
+
+Merared782 Intazoucoune
+
+www.cibse.org
+# Environmental Design 2015 Guide A
+
+# Chapter 6 Internal Heat Gains
+
+# 20 Fenchurch Street
+
+# Load densities for cooling
+
+| Lighting                              | 12W/m²                                                         |
+| ------------------------------------- | -------------------------------------------------------------- |
+| Small power                           | 30W/m²                                                         |
+| Additional tenant equipment allowance | On floor secondary equipment rooms (SERs) 20kW per floor       |
+| Main equipment room (MER)             | 625kW total, allocated on a pro rata basis.                    |
+| Additional cooling allowance          | Of up to 50W/m², over 30% of any individual office floor area: |
+| (Available upon request).             |                                                                |
+
+www.cibse.org
+# Chapter 7 – Moisture transfer and Condensation
+
+Chris Sanders
+
+Glasgow Caledonia University
+
+www.cibse.org
+# Major changes
+
+More emphasis on importance of air movement as a mechanism for moisture transport.
+
+Liquid water storage and movement within porous materials forms an essential part of advanced prediction models to BS EN 15026.
+
+# Introduction
+
+New paragraphs emphasising the importance of air leakage into structures as a mechanism for moisture transport into fabric, and therefore the need to limit air leakage.
+
+www.cibse.org
+# 7.3 Psychrometry of water vapour in air
+
+Expanded version of previous 7.6.1, with simple psychrometric chart to explain derivation of parameters.
+
+| hhumidity                  | 1700             |                   |
+| -------------------------- | ---------------- | ----------------- |
+| 1500                       |                  |                   |
+| 1300                       |                  |                   |
+| L1100                      |                  |                   |
+| 900                        |                  |                   |
+| 700                        |                  |                   |
+| 500                        | Temperature / °C |                   |
+|                            |                  | 10 14 18 20 22 24 |
+| relative \_ 100% 019 \_ 80 |                  |                   |
+
+www.cibse.org
+# 7.4 Moisture content of materials
+
+Equation for sorption isotherm, relating moisture content of material to the ambient RH introduced. Parameters of the equation introduced to expanded Table 7.1
+
+| 28                | 1₂₄ | 2 | 20 | 3 | 16 | 1 | Ju | JQ |
+| ----------------- | --- | - | -- | - | -- | - | -- | -- |
+| Relative humidity |     |   |    |   |    |   |    |    |
+
+Figure 7.2 Sorption curve with indication of moisture capacity
+
+www.cibse.org
+# 7.5 Mechanisms of moisture movement
+
+New section 7.5.3 discussing role of surface buffering in controlling internal humidity.
+
+New section 7.5.5 discussing liquid water movement through pores, which is the dominant mechanism in the more advanced models under BS EN 15026.
+
+Section 7.5.6 on air movement expanded.
+
+# 7.5.5 Liquid water movement
+
+The pressure acting on the water inside building material due to the capillary forces is different from the pressure of the surrounding air; i.e:
+
+Pauc = P - Pr                                      (7.21)
+
+where Pauc is the suction pressure (Pa), P is the pressure of the surrounding air (Pa) and Pw is the pressure of the water pore of the material (Pa).
+
+This difference, the suction pressure, is related to the relative humidity of the surrounding by the Kelvin equation:
+
+Pstc = P - R; 0 In @                             (7.22)
+
+where Pstc is the density of water (kg-m-3), R is the gas constant for water (461 Jkg-1K-1), @ is the temperature of the water (K) and $ is the relative humidity (%).
+
+www.cibse.org
+# 7.7 Interstitial Condensation
+
+Expanded from the old 7.6.5, with new sections
+
+- 7.7.1 Risks of interstitial Condensation
+- 7.7.2 Diffusion (Glaser) model
+- 7.7.3 Drying of components with entrapped moisture
+- 7.7.4 Full models, which discusses the models standardised in BS EN 15026, i.e. WUFI.
+
+www.cibse.org
+# 7.8 Inside and outside design conditions
+
+Generally unchanged from the old 7.7, but with the addition of climate classes defined in BS EN ISO 13788 and BS EN 15026.
+
+# 7.8.5.2 Ground bearing floors
+
+Condensation within ground floors relatively unusual. However, there is a risk in 30mle construction types and cases of floors collapsing due to condensation have occurred:
+
+Heat flow into the ground is a complex process which depends on a large number of factors; these are discussed fully in BS EN ISO 13370 (2007).
+
+The risk of interstitial condensation in ground bearing floors may be calculated by taking the external conditions as variable monthly temperature and constant 100% relative humidity below a 2-metre layer of soil below the floor structure. It is important to note that the external air temperature and humidity should still be used to calculate the internal vapour pressure described in section 7.8.1.
+
+www.cibse.org
+# 7.9 Condensation calculations
+
+Generally unchanged from old 7.8, with addition of new section 7.9.2.5 Condensation in the insulation of cold pipes, where calculations use cylindrical coordinates.
+
+# 7.9.2.5 Condensation in the insulation of cold pipes
+
+The risk of interstitial condensation occurring in insulation surrounding pipes carrying cold liquid can be calculated using the method specified in 7.9.2.3 by replacing the Vpou resistance of each layer with resistance modified to allow for the cylindrical geometry:
+
+2T& (7.41)
+
+www.cibse.org
+# Current Developments
+
+DCLG have just let an 18 month contract to PRP Environmental for a complete review of knowledge and research in this area; once that is complete towards the end of 2016 they will start the process of revising Approved Document C.
+
+Historic Scotland Technical Paper 15, by Joseph Little, which should be published shortly, is a major analysis of the processes concerned with moisture risks in insulated solid masonry walls.
+
+HISTORIC SCOTLAND
+
+ALBA AOSMHOR
+
+www.cibse.org
+# Current Developments
+
+Analysis based on BS EN 15026 (i.e WUFI) is being increasingly used, in place of the traditional ‘Glaser’ method in BS EN ISO 13788, without there being clear guidance as to which method is appropriate for any given system.
+
+It is apparent that the distinction that has been made between problems of ‘interstitial condensation’ and problems from other moisture sources, especially driving rain, is unhelpful.
+
+BS 5250, will be completely revised in 2017.
+
+praciko Tcr contral
+
+www.cibse.org
+# Chapter 8 – Health Issues
+
+Marialena Nikolopolou
+
+Professor of Sustainable Architecture, Director of CASE
+
+Kent School of Architecture
+
+www.cibse.org
+# Thermal discomfort and health implications
+
+- Regulatory background
+- Heat stress/discomfort and heat exhaustion
+- Acclimatization and difference between heat and cold
+- Cold discomfort
+- Implications on the human body and productivity
+- Thermal environment and adaptive comfort
+- Links with A1
+- Burns
+
+www.cibse.org
+# Humidity
+
+| 1 | Increasing deposits |
+| - | ------------------- |
+
+- Thermal comfort
+- Problems with high humidity:
+- of increasing concern in the UK
+- From 4 paragraphs to 1.5 page
+- House Dust Mites
+- Recommendations
+- Problems with low humidity
+- 1
+- Least sensitive persons
+
+Relative humidity
+
+Figure 8.6 Influence of relative humidity on eye discomfort with contact lens (source: Nilsson and Anderson (1986); 1936 institution Acta Ophthalmologica Scandinavica; reproduced by permission of John Wiley and Sons)
+
+www.cibse.org
+# House dust mites
+
+# GROWTH
+
+| Room Temperature (°C) |      |      |      |    |
+| --------------------- | ---- | ---- | ---- | -- |
+| 15                    | 17.5 | 20   | 22.5 | 25 |
+| 27.5                  | 30   | 32.5 | 35   |    |
+
+Predicted bedroom mite growth risk, using the mite population index model: graphic representation of lab results for population growth at varying combinations of temperature and RH.
+
+(Source: Crowther et al, 2006)
+
+The interventions included combinations of occupants’ behaviours on moisture production, heating and ventilation habits.
+
+(Source: Ucci et al, 2007)
+
+www.cibse.org
+# Air quality and ventilation
+
+- Regulatory guidelines (Links with A1)
+- Indoor pollutants and their sources
+- Health effects of pollutants
+- Incl. SARS & microbiological contamination of the ventilation paths
+- Sensory effects of pollutants
+- Methods of controlling pollutants (Links with A1)
+- Outdoor air
+- Sick building syndrome
+- Air quality and productivity
+- Advice on smoking – NOT provided (smoking ban)
+
+www.cibse.org
+# Visual environment
+
+- Legislation
+- Light as radiation
+- Light operating through the visual system
+- Light operating through the circadian system
+- Light as a purifier
+
+- increased from 3 paragraphs to 2 pages
+
+- Building air applications
+- Lamps, safety and maintenance
+- Further guidance
+
+www.cibse.org
+# Ultra-Violet Germicidal Irradiation (UVGI)
+
+# Typical applications of UVGI to room air:
+
+- (a) In-duct application—treatment of supply air
+- (b) Local in-room devices—recirculation and treatment of the air within a room
+- (c) Upper-room device—treatment of room air via a UV zone above occupants’ heads
+
+www.cibse.org
+# Water quality
+
+# Regulatory background
+
+- Stean humidification
+- No viable
+
+# Drinking water
+
+- LTHW heating system
+- Legionella
+
+# Hot water
+
+- HWS tap outlets
+- Legionella will multiply and
+- storage Spas, showers
+
+# Cold water services
+
+- Cooling towers
+- Legionella will multiply
+
+# Scalds
+
+# Legionnaires’ disease
+
+- Spray humidifier
+- Mains cold water; air cooling coil
+- condensate and chilled water systems
+
+# Cleaning and disinfection of water systems
+
+- Increasing risk of multiplication of Legionella
+
+# System design/operating temperatures and multiplication of Legionella
+
+- Dispersive systems
+- Ozone
+- UV-C treatment
+
+(Source: CIBSE, TM13, 2013)
+
+www.cibse.org
+# Electromagnetic effects & Noise and vibration
+
+# Electromagnetic effects
+
+- Links with A1
+- Air ionisation
+- Static electricity
+
+# Noise and vibration
+
+- Links with A1
+- Noise and health
+- Static electricity
+- Hearing damage
+- Vibration
+- Building services vibration
+- Acoustic requirements in healthcare facilities
+
+www.cibse.org
+# Communities and health
+
+# Health impact assessment (HIA)
+
+HIA is ‘a means of assessing the health impacts of policies, plans and projects in diverse economic sectors using quantitative, qualitative and participatory techniques’ (WHO)
+
+An independent tool for promoting public health in projects and policies.
+
+www.cibse.org
+# Q and A session
+
+www.cibse.org
+# Thanks to everyone for attending
+
+# Drinks and canapés
+
+Access to the Guide to buy or download (free to members) is via:
+
+www.cibse.org/GuideA
+
+These slides will be made available after the event on the CIBSE: www.cibse.org/GuideA
+
+www.cibse.org
