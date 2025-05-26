@@ -20,9 +20,9 @@ def rag_answer(question, context, mode="local"):
     client, completion_model = api_mode(mode)
     
     prompt = f"""Answer the question based on the provided information. 
-You are given extracted parts of a document and a question. Provide a direct answer.
-If you don't know the answer, just say "I do not know.". Don't make up an answer. But provide a summary of the context. and suggest further place to look for the answer.
-PROVIDED INFORMATION: {context}"""
+    You are given extracted parts of a document and a question. Provide a direct answer.
+    If you don't know the answer, just say "I do not know.". Don't make up an answer. But provide a summary of the context. and suggest further place to look for the answer.
+    PROVIDED INFORMATION: {context}"""
     
     completion = client.chat.completions.create(
         model=completion_model[0]["model"],
@@ -96,7 +96,7 @@ def reframe_question(question, context, mode="local"):
         Based on this context: {context}...
 
         Provide:
-        1.Extractly how the question should be reframed to get better results
+        1.Extract how the question should be reframed to get better results
         2. Your best knowledge-based answer to help the user
         3. If the context provides where the answer might be found (specific sections/documents) reframe the question so we can use it for vector search in RAG.
 
@@ -140,6 +140,26 @@ def perform_search(query, index_lib, doc_context, args):
     answer = rag_answer(query, context, args.mode)
     return answer, best_vectors
 
+def classify_answer(question,mode="local"):
+    """Provide helpful fallback when RAG fails"""
+    client, completion_model = api_mode(mode)
+    
+    prompt = f"""If the response contain I don't know or indicates that it doesn't know the answer: "{question}"
+        
+        Return True if the answer is satisfactory, otherwise return False. Do not provide any explanation or additional information, just return True or False.
+        Example:
+        ANSWER: I don't know the answer to your question based on the provided information.
+        RESPONSE: False
+        """
+
+    response = client.chat.completions.create(
+        model=completion_model[0]["model"],
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.1
+    )
+    return response.choices[0].message.content
+    
+
 def ask_rag():
     parser = argparse.ArgumentParser(description='RAG Question Answering System')
     parser.add_argument('embeddings_json', help='Path to embeddings JSON file')
@@ -162,20 +182,15 @@ def ask_rag():
     
     answer, best_vectors = perform_search(enhanced_question, index_lib, doc_context, args)
     
-    # If poor answer, try reframing once
-    if detect_poor_answer(answer):
+    if classify_answer(answer,args.mode):
         print("Initial search unsatisfactory, reframing...")
-        reframe_response = reframe_question(question, "\n".join([v['content'] for v in best_vectors]), args.mode)
-        reframed_question = extract_reframed_question(reframe_response)
-        print(f"Reframing search with: {reframed_question}")
+        # reframe_response = reframe_question(question, "\n".join([v['content'] for v in best_vectors]), args.mode)
+        # reframed_question = extract_reframed_question(reframe_response)
+        # print(f"Reframing search with: {reframed_question}")
         
-        answer, best_vectors = perform_search(reframed_question, index_lib, doc_context, args)
-        
-        # If still poor after reframing, use fallback
-        if detect_poor_answer(answer):
-            context = "\n\n".join([f"[Source: {v.get('source_file', 'unknown').replace('.json', '')}]\n{v['content']}" for v in best_vectors])
-            answer = fallback_answer(question, context, args.mode)
+        # answer, best_vectors = perform_search(reframed_question, index_lib, doc_context, args)
     
+
     print(f"QUESTION: {question}")
     print(f"ANSWER: {answer}")
     print(f"SOURCES: {', '.join(set(v.get('source_file', 'unknown') for v in best_vectors))}")
