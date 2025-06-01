@@ -21,8 +21,8 @@ def rag_answer(question, context, mode="local"):
     
     prompt = f"""Answer the question based on the provided information. 
     You are given extracted parts of a document and a question. Provide a direct answer.
-    If you don't know the answer, just say "I do not know.". Don't make up an answer. But provide a summary of the context. and suggest further place to look for the answer.
-    PROVIDED INFORMATION: {context}"""
+    If you don't know the answer, just say "I do not know.". Don't make up an answer.
+    PROVIDED INFORMATION: {context}. Provide a summary of the information provided."""
     
     completion = client.chat.completions.create(
         model=completion_model[0]["model"],
@@ -38,8 +38,8 @@ def enhance_question(question, mode="local"):
     client, completion_model = api_mode(mode)
     
     enhancement_prompt = f"""Improve this question for better document search results. 
-    Keep it succint and concise so it can be used for vector search.
-    Do not change the original meaning:
+    Keep it succint and concise so it can be used for RAG vector search.
+    Do not change the original meaning. Do not add any additional information, just improve the wording.
 
     Original: {question}
 
@@ -95,12 +95,9 @@ def reframe_question(question, context, mode="local"):
 
         Based on this context: {context}...
 
-        Provide:
-        1.Extract how the question should be reframed to get better results
-        2. Your best knowledge-based answer to help the user
-        3. If the context provides where the answer might be found (specific sections/documents) reframe the question so we can use it for vector search in RAG.
-
-        Be practical and actionable."""
+        Provide a reframed question that would yield better results in the document search and extract the information required from the original question.        
+        return the reframed question in the format: Reframed question: <your question here>. Do not provide any additional information or explanation.
+        """
 
     response = client.chat.completions.create(
         model=completion_model[0]["model"],
@@ -144,8 +141,7 @@ def classify_answer(question,mode="local"):
     """Provide helpful fallback when RAG fails"""
     client, completion_model = api_mode(mode)
     
-    prompt = f"""If the response contain I don't know or indicates that it doesn't know the answer: "{question}"
-        
+    prompt = f"""If the response contain I don't know or indicates that it doesn't know the answer or it doesnt answer the question correctly: "{question}"
         Return True if the answer is satisfactory, otherwise return False. Do not provide any explanation or additional information, just return True or False.
         Example:
         ANSWER: I don't know the answer to your question based on the provided information.
@@ -181,14 +177,16 @@ def ask_rag():
     print(f"Enhanced question: {enhanced_question}")
     
     answer, best_vectors = perform_search(enhanced_question, index_lib, doc_context, args)
+    print(f"Original answer: {answer},enhanced_question: {enhanced_question}")
     
     if classify_answer(answer,args.mode):
         print("Initial search unsatisfactory, reframing...")
-        # reframe_response = reframe_question(question, "\n".join([v['content'] for v in best_vectors]), args.mode)
+        reframe_response = reframe_question(enhanced_question, answer + "\n".join([v['content'] for v in best_vectors]), args.mode)
         # reframed_question = extract_reframed_question(reframe_response)
-        # print(f"Reframing search with: {reframed_question}")
+        print(f"Reframing search with: {reframe_response}")
         
-        # answer, best_vectors = perform_search(reframed_question, index_lib, doc_context, args)
+        answer, best_vectors = perform_search(reframe_response.split(':')[1], index_lib, doc_context, args)
+        question = reframe_response.split(':')[1].strip()
     
 
     print(f"QUESTION: {question}")
