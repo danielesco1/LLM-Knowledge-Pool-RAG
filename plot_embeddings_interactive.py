@@ -35,7 +35,7 @@ def plot_embeddings_umap_interactive(embeddings_json="knowledge_pool/merged.json
         hover_data={'Content': contents},
         title='Interactive UMAP Visualization of Document Embeddings',
         labels={'x': 'UMAP Dimension 1', 'y': 'UMAP Dimension 2', 'color': 'Document'},
-        width=1000, height=700,
+        width=1400, height=900,  # Larger size
         color_discrete_sequence=px.colors.qualitative.Set1  # Better visibility
     )
     
@@ -52,7 +52,13 @@ def plot_embeddings_umap_interactive(embeddings_json="knowledge_pool/merged.json
     
     fig.update_layout(
         hoverlabel=dict(bgcolor="white", font_size=12, font_family="Arial"),
-        legend=dict(yanchor="top", y=0.99, xanchor="left", x=1.01)
+        legend=dict(
+            orientation="h",  # Horizontal legend
+            yanchor="top",
+            y=-0.1,          # Below the plot
+            xanchor="center",
+            x=0.5            # Centered
+        )
     )
     
     # Save and show
