@@ -4,6 +4,7 @@ import re
 from llama_parse import LlamaParse
 from config import *
 from tqdm import tqdm
+import time
 
 # Parser setup - moved to top
 parser = LlamaParse(
