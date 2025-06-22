@@ -179,21 +179,23 @@ def llm_call():
     available_docs = list(set(v.get('source_file', 'unknown').replace('.json', '') for v in index_lib))
     doc_context = f"Available knowledge base: {', '.join(available_docs)}"
     
-    # First attempt
-    enhanced_question = enhance_question(question, mode)
-    print(f"Enhanced question: {enhanced_question}")
+    answer, best_vectors, context_results = perform_search(question, index_lib, doc_context, show_context=show_context, mode=mode)
+    # print(f"Original answer: {answer},enhanced_question: {enhanced_question}")
+    # # First attempt
+    # enhanced_question = enhance_question(question, mode)
+    # print(f"Enhanced question: {enhanced_question}")
     
-    answer, best_vectors, context_results = perform_search(enhanced_question, index_lib, doc_context, show_context=show_context, mode=mode)
-    print(f"Original answer: {answer},enhanced_question: {enhanced_question}")
+    # answer, best_vectors, context_results = perform_search(enhanced_question, index_lib, doc_context, show_context=show_context, mode=mode)
+    # print(f"Original answer: {answer},enhanced_question: {enhanced_question}")
     
-    if classify_answer(answer,mode):
-        print("Initial search unsatisfactory, reframing...")
-        reframe_response = reframe_question(enhanced_question, answer + "\n".join([v['content'] for v in best_vectors]), mode)
-        # reframed_question = extract_reframed_question(reframe_response)
-        print(f"Reframing search with: {reframe_response}")
+    # if classify_answer(answer,mode):
+    #     print("Initial search unsatisfactory, reframing...")
+    #     reframe_response = reframe_question(enhanced_question, answer + "\n".join([v['content'] for v in best_vectors]), mode)
+    #     # reframed_question = extract_reframed_question(reframe_response)
+    #     print(f"Reframing search with: {reframe_response}")
         
-        answer, best_vectors, context_results = perform_search(reframe_response.split(':')[1], index_lib, doc_context, show_context=show_context, mode=mode)
-        question = reframe_response.split(':')[1].strip()
+    #     answer, best_vectors, context_results = perform_search(reframe_response.split(':')[1], index_lib, doc_context, show_context=show_context, mode=mode)
+    #     question = reframe_response.split(':')[1].strip()
     
 
     print(f"QUESTION: {question}")

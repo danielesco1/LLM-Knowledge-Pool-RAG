@@ -1,0 +1,4 @@
+LLAMAPARSE_API_KEY = "llx-UQZu28lvmcG3FjqpCdwTYx394UjtNayF39UsQiHRClDKuwvv"
+OPENAI_API_KEY = "your key"
+CLOUDFLARE_ACCOUNT_ID = "your account id"
+CLOUDFLARE_API_KEY = "your key"

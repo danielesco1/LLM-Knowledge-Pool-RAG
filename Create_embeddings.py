@@ -5,6 +5,7 @@ from llama_parse import LlamaParse
 from config import *
 from tqdm import tqdm
 import time
+from chunking_strategies import load_pdf_text,chunk_for_rag_bullets
 
 # Parser setup - moved to top
 parser = LlamaParse(
@@ -15,44 +16,74 @@ parser = LlamaParse(
     language="en",
 )
 
-def chunk_for_rag(text: str, target_tokens: int = 350, overlap: int = 75):
-    # Clean text
-    text = re.sub(r'\n\s*\n+', '\n\n', text)
-    text = re.sub(r'(?:Page \d+.*|^\s*\d+\s*$)', '', text, flags=re.MULTILINE)
+# def chunk_for_rag(text: str, target_tokens: int = 350, overlap: int = 75):
+#     # Clean text
+#     text = re.sub(r'\n\s*\n+', '\n\n', text)
+#     text = re.sub(r'(?:Page \d+.*|^\s*\d+\s*$)', '', text, flags=re.MULTILINE)
     
-    # Find section boundaries
-    patterns = r'^\s*(?:\d+\.[\d\.]*\s+[A-Z]|(?:CREDIT|PREREQUISITE|FEATURE|REQUIREMENT|INTENT|REQUIREMENTS|COMPLIANCE|VERIFICATION|DOCUMENTATION|Exception|TABLE|Figure|Formula)\s*[A-Z0-9]*[:\s]*[A-Z]|[A-Z]{1,3}\d*[a-z]?\d*\s*[:-]\s*[A-Z])[^\n]*$'
+#     # Find section boundaries
+#     patterns = r'^\s*(?:\d+\.[\d\.]*\s+[A-Z]|(?:CREDIT|PREREQUISITE|FEATURE|REQUIREMENT|INTENT|REQUIREMENTS|COMPLIANCE|VERIFICATION|DOCUMENTATION|Exception|TABLE|Figure|Formula)\s*[A-Z0-9]*[:\s]*[A-Z]|[A-Z]{1,3}\d*[a-z]?\d*\s*[:-]\s*[A-Z])[^\n]*$'
     
-    boundaries = [0] + [m.start() for m in re.finditer(patterns, text, re.MULTILINE)] + [len(text)]
-    sections = [text[boundaries[i]:boundaries[i+1]].strip() for i in range(len(boundaries)-1)]
+#     boundaries = [0] + [m.start() for m in re.finditer(patterns, text, re.MULTILINE)] + [len(text)]
+#     sections = [text[boundaries[i]:boundaries[i+1]].strip() for i in range(len(boundaries)-1)]
     
-    chunks = []
-    for section in sections:
-        if not section or len(section.split()) < 10: continue
+#     chunks = []
+#     for section in sections:
+#         if not section or len(section.split()) < 10: continue
         
-        if len(section.split()) <= target_tokens:
-            chunks.append(section)
-        else:
-            # Split large sections
-            paragraphs = [p.strip() for p in section.split('\n\n') if p.strip()]
-            current, tokens = "", 0
+#         if len(section.split()) <= target_tokens:
+#             chunks.append(section)
+#         else:
+#             # Split large sections
+#             paragraphs = [p.strip() for p in section.split('\n\n') if p.strip()]
+#             current, tokens = "", 0
             
-            for para in paragraphs:
-                para_tokens = len(para.split())
-                if tokens + para_tokens <= target_tokens:
-                    current += f"\n\n{para}" if current else para
-                    tokens += para_tokens
-                else:
-                    if current: chunks.append(current)
-                    # Start new chunk with overlap
-                    sentences = re.split(r'(?<=[.!?])\s+', current)
-                    overlap_text = " ".join(sentences[-overlap//20:]) if sentences else ""
-                    current = f"{overlap_text}\n\n{para}" if overlap_text else para
-                    tokens = len(current.split())
+#             for para in paragraphs:
+#                 para_tokens = len(para.split())
+#                 if tokens + para_tokens <= target_tokens:
+#                     current += f"\n\n{para}" if current else para
+#                     tokens += para_tokens
+#                 else:
+#                     if current: chunks.append(current)
+#                     # Start new chunk with overlap
+#                     sentences = re.split(r'(?<=[.!?])\s+', current)
+#                     overlap_text = " ".join(sentences[-overlap//20:]) if sentences else ""
+#                     current = f"{overlap_text}\n\n{para}" if overlap_text else para
+#                     tokens = len(current.split())
             
-            if current: chunks.append(current)
+#             if current: chunks.append(current)
     
-    return [c for c in chunks if len(c.split()) >= 30 and sum(1 for ch in c if ch.isalpha()) > len(c) * 0.4]
+#     return [c for c in chunks if len(c.split()) >= 30 and sum(1 for ch in c if ch.isalpha()) > len(c) * 0.4]
+
+# def chunk_for_rag_bullets(text: str):
+#     chunks = text.split("\n\n")
+#     return [chunk.strip() for chunk in chunks if chunk.strip()]
+
+# from typing import List
+
+# def chunk_for_rag_bullets(
+#     text: str,
+#     max_tokens: int = 300
+# ) -> List[str]:
+#     # split into non-empty “bullets”
+#     bullets = [line.strip() for line in text.splitlines() if line.strip()]
+
+#     chunks, cur, cur_tokens = [], [], 0
+#     for b in bullets:
+#         t = len(b.split())
+#         # if adding b would overflow, flush current chunk
+#         if cur and cur_tokens + t > max_tokens:
+#             chunks.append(" ".join(cur))
+#             cur, cur_tokens = [], 0
+
+#         cur.append(b)
+#         cur_tokens += t
+
+#     # add the last chunk
+#     if cur:
+#         chunks.append(" ".join(cur))
+
+#     return chunks
 
 def get_embedding(text, model=embedding_model, max_retries=3):
     for attempt in range(max_retries):
@@ -69,20 +100,36 @@ def process_pdfs_and_create_embeddings(directory="knowledge_pool"):
         try:
             print(f"Processing {filename}...")
             
+            
             # Parse PDF and extract text
-            with open(os.path.join(directory, filename), "rb") as f:
-                docs = parser.load_data(f, extra_info={"file_name": os.path.join(directory, filename)})
+            # with open(os.path.join(directory, filename), "rb") as f:
+            #     docs = parser.load_data(f, extra_info={"file_name": os.path.join(directory, filename)})
             
-            full_text = "\n".join(doc.text for doc in docs if doc.text.strip())
-            if not full_text: continue
+            pdf_path = os.path.join(directory, filename)
             
-            # Save text file
+            full_text = load_pdf_text(pdf_path)
+            print(full_text[:500])
             base_name = os.path.splitext(filename)[0]
             with open(os.path.join(directory, f"{base_name}.txt"), 'w', encoding='utf-8', errors='replace') as f:
                 f.write(full_text)
+            # extract text :contentReference[oaicite:0]{index=0}
+            chunks = chunk_for_rag_bullets(full_text)
+
+            # example: print or send to your embedding pipeline
+            for i, chunk in enumerate(chunks, 1):
+                print(f"=== Chunk {i} ===\n{chunk}\n")
+            
+            # full_text = "\n".join(doc.text for doc in docs if doc.text.strip())
+            # if not full_text: continue
+            
+            # # Save text file
+            # base_name = os.path.splitext(filename)[0]
+            # with open(os.path.join(directory, f"{base_name}.txt"), 'w', encoding='utf-8', errors='replace') as f:
+            #     f.write(full_text)
             
             # Create chunks and embeddings
-            chunks = chunk_for_rag(full_text)
+            # chunks = chunk_for_rag(full_text)
+            # chunks = chunk_for_rag_bullets(full_text)
             print(f"Created {len(chunks)} chunks from {filename}")
             
             embeddings = []
