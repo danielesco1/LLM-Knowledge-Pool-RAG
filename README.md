@@ -48,6 +48,20 @@ llama3 = [
 }]
 
 ```
+For STUDIO purposes
+run like this
+Put all pdfs in knowledge_pool
+
+then run function python Create_embeddings.py
+then run function python Merge_embeddings.py
+then run function python Ask_rag.py 
+
+for grasshopper
+start gh_server.py 
+can modify llm calls inside of the file there
+open up grasshopper and load LLM_talk_grasshopper.gh
+
+
 
 ## Running
 
