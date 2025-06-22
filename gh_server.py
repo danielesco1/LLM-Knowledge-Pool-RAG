@@ -160,6 +160,29 @@ def classify_answer(question,mode="local"):
     )
     return response.choices[0].message.content
 
+def extract_values(text, mode="local"): 
+    """Provide helpful fallback when RAG fails"""
+    client, completion_model = api_mode(mode)
+    
+    prompt = f"""{text}
+        You are a parser that extracts the upper percentage values from a Window-to-Wall Ratio recommendation. Given text with entries like North: 30–40%, South: 40–50% (shaded), East/West: 35–45%, 
+        output **only** a JSON object with lowercase keys north, south, east, and west whose values are the upper bounds as integers.  
+            Example input:
+            The recommended WWR …  
+            - North: 30-40%  
+            - South: 40-50% (shaded)  
+            - East/West: 35-45% 
+            Expected output:
+            json
+            {{'north':40,'south':50,'east':35,'west':45}}
+        """
+
+    response = client.chat.completions.create(
+        model=completion_model[0]["model"],
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.1
+    )
+    return response.choices[0].message.content
 
 app = Flask(__name__)
 
@@ -180,6 +203,10 @@ def llm_call():
     doc_context = f"Available knowledge base: {', '.join(available_docs)}"
     
     answer, best_vectors, context_results = perform_search(question, index_lib, doc_context, show_context=show_context, mode=mode)
+    
+    json_values = extract_values(answer, mode="local")
+    
+    
     # print(f"Original answer: {answer},enhanced_question: {enhanced_question}")
     # # First attempt
     # enhanced_question = enhance_question(question, mode)
@@ -202,7 +229,10 @@ def llm_call():
     print(f"ANSWER: {answer}")
     print(f"SOURCES: {', '.join(set(v.get('source_file', 'unknown') for v in best_vectors))}")
     final_answer = f"QUESTION: {question}\nANSWER: {answer}\nSOURCES: {', '.join(set(v.get('source_file', 'unknown') for v in best_vectors))}, \n\nCONTEXT: {context_results}"
-    return jsonify({'response': final_answer,})
+    return jsonify({
+        "response": final_answer,
+        "json_values": json_values
+    })
 
 
 if __name__ == '__main__':
